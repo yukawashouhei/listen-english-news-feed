@@ -1,1 +1,3907 @@
-{"id":"2026-10-21-ai-how-openai-started-in","date":"2026-10-21","topic":"ai","region":"americas","headline":"How OpenAI Started in a Living Room","source":{"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/OpenAI"},"accent":"uk","tiers":{"t1":{"sentences":[{"text":"OpenAI started in a small living room in 2015.","voice":"voice/2026-10-21-ai-how-openai-started-in/t1-0.m4a","roles":["S","V","M","M","M","M","M","M","M"],"dur":4.33,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t1-0.m4a","durJa":5.3,"times":[0.0,0.62,1.44,1.7,1.8,2.08,2.52,2.8,3.12]},{"text":"Greg Brockman worked from his own home with friends.","voice":"voice/2026-10-21-ai-how-openai-started-in/t1-1.m4a","roles":["S","S","V","M","M","M","M","M","M"],"dur":3.21,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t1-1.m4a","durJa":4.15,"times":[0.0,0.1,0.74,1.12,1.44,1.6,1.84,2.16,2.5]},{"text":"The group created a smart computer program named GPT-2.","voice":"voice/2026-10-21-ai-how-openai-started-in/t1-2.m4a","roles":["S","S","V","O","O","O","O","O","O"],"dur":4.86,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t1-2.m4a","durJa":5.72,"times":[0.0,0.06,0.28,0.82,1.16,1.44,1.86,2.66,3.45]},{"text":"It wrote sentences like a real human person.","voice":"voice/2026-10-21-ai-how-openai-started-in/t1-3.m4a","roles":["S","V","O","M","M","M","M","M"],"dur":3.16,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t1-3.m4a","durJa":3.18,"times":[0.0,0.08,0.26,0.78,1.3,1.52,1.8,2.32]},{"text":"The creators feared it was too good to release.","voice":"voice/2026-10-21-ai-how-openai-started-in/t1-4.m4a","roles":["S","S","V","S","V","C","C","C","C"],"dur":3.53,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t1-4.m4a","durJa":4.94,"times":[0.0,0.08,0.38,0.94,1.4,1.56,1.84,2.22,2.54]}],"bands":{"core1000":89,"core1800":2,"ngsl":2,"tsl":0,"nawl":0,"beyond":7},"grammar":[{"i":3,"focus":"like a real human person","title":"Simile with Preposition Like","note":"The word 'like' is used as a preposition to compare two things. Here, it compares how the program wrote text to how a person writes."},{"i":4,"focus":"too good to release","title":"Too ... To Infinitive Pattern","note":"This structure means something has so much of a quality that a certain action cannot or should not happen. It explains that the program was so good that creators decided not to release it."}]},"t2":{"sentences":[{"text":"A famous technology group started in a plain living room in 2015.","voice":"voice/2026-10-21-ai-how-openai-started-in/t2-0.m4a","roles":["S","S","S","S","V","M","M","M","M","M","M","M"],"dur":5.02,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t2-0.m4a","durJa":6.59,"times":[0.0,0.18,0.54,1.04,1.6,2.06,2.48,2.56,2.84,3.22,3.48,3.8]},{"text":"Greg Brockman and his team worked hard because they loved big ideas.","voice":"voice/2026-10-21-ai-how-openai-started-in/t2-1.m4a","roles":["S","S","S","S","S","V","M","M","S","V","O","O"],"dur":5.04,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t2-1.m4a","durJa":6.05,"times":[0.0,0.2,0.72,1.06,1.26,1.52,2.2,2.66,3.18,3.4,3.78,4.18]},{"text":"They built a smart language system called GPT-2 four years later.","voice":"voice/2026-10-21-ai-how-openai-started-in/t2-2.m4a","roles":["S","V","O","O","O","O","O","O","M","M","M"],"dur":5.21,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t2-2.m4a","durJa":6.09,"times":[0.0,0.1,0.38,0.6,0.88,1.48,1.96,2.97,3.84,4.28,4.58]},{"text":"The system wrote text so well that it surprised the whole team.","voice":"voice/2026-10-21-ai-how-openai-started-in/t2-3.m4a","roles":["S","S","V","O","M","M","M","S","V","O","O","O"],"dur":4.23,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t2-3.m4a","durJa":5.52,"times":[0.0,0.08,0.38,0.68,1.06,1.54,1.94,2.38,2.52,2.82,3.38,3.6]},{"text":"They worried about bad uses, so they did not release it fully.","voice":"voice/2026-10-21-ai-how-openai-started-in/t2-4.m4a","roles":["S","V","M","M","M","M","S","V","V","V","O","M"],"dur":3.94,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t2-4.m4a","durJa":5.33,"times":[0.0,0.1,0.34,0.74,1.14,2.1,2.34,2.46,2.6,2.82,3.2,3.42]},{"text":"Future researchers will learn from this unusual and cautious early decision.","voice":"voice/2026-10-21-ai-how-openai-started-in/t2-5.m4a","roles":["S","S","V","V","M","M","M","M","M","M","M"],"dur":5.18,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t2-5.m4a","durJa":5.62,"times":[0.0,0.32,0.72,1.18,1.5,1.78,1.98,2.68,3.06,3.48,4.1]}],"bands":{"core1000":86,"core1800":6,"ngsl":4,"tsl":1,"nawl":0,"beyond":3},"grammar":[{"i":1,"focus":"because","title":"Causative Subordinating Conjunction","note":"The conjunction 'because' introduces a clause that gives the reason for an action. In this sentence, it explains why the team worked so hard."},{"i":3,"focus":"so well that","title":"So ... That Result Clause","note":"This pattern shows a cause-and-effect relationship. 'So well' describes the degree of performance, and 'that' leads into the surprising result."}]},"t3":{"sentences":[{"text":"Long before OpenAI became famous, the group began inside a simple home living room.","voice":"voice/2026-10-21-ai-how-openai-started-in/t3-0.m4a","roles":["M","M","S","V","C","S","S","V","M","M","M","M","M","M"],"dur":6.59,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t3-0.m4a","durJa":7.57,"times":[0.0,0.32,0.76,1.52,2.02,3.18,3.28,3.5,3.96,4.46,4.9,5.22,5.58,6.02]},{"text":"Co-founder Greg Brockman hosted the early team, which focused on non-profit technology research.","voice":"voice/2026-10-21-ai-how-openai-started-in/t3-1.m4a","roles":["S","S","S","V","O","O","O","S","V","M","M","M","M"],"dur":6.42,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t3-1.m4a","durJa":7.95,"times":[0.0,0.5,0.86,1.42,1.9,2.22,2.44,3.38,3.5,3.78,4.01,4.86,5.42]},{"text":"In 2019, the organization created GPT-2, a language model that generates humanlike text.","voice":"voice/2026-10-21-ai-how-openai-started-in/t3-2.m4a","roles":["M","M","S","S","V","O","O","O","O","S","V","O","O"],"dur":7.51,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t3-2.m4a","durJa":7.73,"times":[0.0,0.06,1.36,1.52,1.84,3.26,4.5,4.58,4.8,5.28,5.54,5.92,6.78]},{"text":"The software performed so effectively that it shocked the researchers who created it.","voice":"voice/2026-10-21-ai-how-openai-started-in/t3-3.m4a","roles":["S","S","V","M","M","M","S","V","O","O","S","V","O"],"dur":4.87,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t3-3.m4a","durJa":6.59,"times":[0.0,0.08,0.3,0.78,1.32,1.82,2.58,2.7,2.94,3.28,3.62,4.04,4.36]},{"text":"They feared the program was too powerful, so they delayed its full public release.","voice":"voice/2026-10-21-ai-how-openai-started-in/t3-4.m4a","roles":["S","V","S","S","V","C","C","M","S","V","O","O","O","O"],"dur":4.97,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t3-4.m4a","durJa":6.46,"times":[0.0,0.1,0.38,0.58,0.9,1.24,1.52,2.58,2.74,2.9,3.2,3.6,3.86,4.22]},{"text":"Since that cautious moment, the company has transformed into a global technology giant.","voice":"voice/2026-10-21-ai-how-openai-started-in/t3-5.m4a","roles":["M","M","M","M","S","S","V","V","M","M","M","M","M"],"dur":5.61,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t3-5.m4a","durJa":5.82,"times":[0.0,0.18,0.42,0.84,1.86,2.06,2.32,2.64,3.08,3.64,3.78,4.06,4.54]},{"text":"Today, millions of people have used tools that grew from those humble beginnings.","voice":"voice/2026-10-21-ai-how-openai-started-in/t3-6.m4a","roles":["M","S","S","S","V","V","O","S","V","M","M","M","M"],"dur":5.36,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t3-6.m4a","durJa":7.08,"times":[0.0,0.66,0.98,1.36,1.66,1.9,2.14,2.54,2.92,3.18,3.58,3.74,4.06]}],"bands":{"core1000":78,"core1800":12,"ngsl":3,"tsl":2,"nawl":1,"beyond":4},"grammar":[{"i":1,"focus":"which focused on non-profit technology research","title":"Non-defining Relative Clause","note":"A non-defining relative clause starts with 'which' after a comma to give extra details about a noun. Here, it adds background information about the early team."},{"i":5,"focus":"has transformed","title":"Present Perfect Tense","note":"The present perfect (has + past participle) links a past event or change to the present time. It emphasizes that the past change affects the company's current status."}]},"t4":{"sentences":[{"text":"When OpenAI was founded in December 2015, its original team operated entirely out of a private living room.","voice":"voice/2026-10-21-ai-how-openai-started-in/t4-0.m4a","roles":["M","S","V","V","M","M","M","S","S","S","V","M","M","M","M","M","M","M"],"dur":8.13,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t4-0.m4a","durJa":9.92,"times":[0.0,0.26,0.96,1.4,1.68,2.04,2.34,3.88,4.08,4.24,4.86,5.34,6.06,6.64,6.78,6.84,7.12,7.54]},{"text":"Co-founder Greg Brockman provided the workspace while the non-profit research lab recruited its very first computer scientists.","voice":"voice/2026-10-21-ai-how-openai-started-in/t4-1.m4a","roles":["S","S","S","V","O","O","M","S","S","S","S","V","O","O","O","O","O"],"dur":7.89,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t4-1.m4a","durJa":9.56,"times":[0.0,0.42,0.82,1.34,1.84,2.04,2.4,3.22,3.39,3.86,4.22,4.72,5.24,5.62,5.84,6.3,6.7]},{"text":"The group was established to ensure that artificial intelligence would safely benefit all of humanity rather than private interests.","voice":"voice/2026-10-21-ai-how-openai-started-in/t4-2.m4a","roles":["S","S","V","V","M","M","M","S","S","V","V","V","O","O","O","M","M","M","M"],"dur":8.01,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t4-2.m4a","durJa":9.51,"times":[0.0,0.1,0.3,0.5,0.96,1.34,1.64,1.96,2.4,3.26,3.58,3.9,4.42,4.96,5.22,5.68,6.44,6.78,7.06]},{"text":"By 2019, the researchers had developed GPT-2, a large language model designed to process and generate natural text.","voice":"voice/2026-10-21-ai-how-openai-started-in/t4-3.m4a","roles":["M","M","S","S","V","V","O","O","O","O","O","O","O","O","O","O","O","O"],"dur":8.56,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t4-3.m4a","durJa":10.18,"times":[0.0,0.14,0.8,1.62,1.94,2.34,3.47,4.26,4.36,4.58,5.06,5.46,5.84,6.18,6.52,6.88,7.28,7.68]},{"text":"However, the system produced writing that was considered almost too convincing for immediate and unrestricted public distribution.","voice":"voice/2026-10-21-ai-how-openai-started-in/t4-4.m4a","roles":["M","S","S","V","O","S","V","V","C","C","C","C","C","C","C","C","C"],"dur":7.53,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t4-4.m4a","durJa":8.72,"times":[0.0,0.54,0.66,0.94,1.24,1.76,2.08,2.22,2.62,3.18,3.6,4.1,4.58,5.04,5.42,5.9,6.54]},{"text":"Company leaders reported that releasing the full model right away posed significant risks regarding potential automated misuse.","voice":"voice/2026-10-21-ai-how-openai-started-in/t4-5.m4a","roles":["S","S","V","M","S","S","S","S","S","S","V","O","O","O","O","O","O"],"dur":7.65,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t4-5.m4a","durJa":8.76,"times":[0.0,0.26,0.6,0.98,1.38,1.68,2.06,2.24,2.58,2.92,3.28,3.88,4.48,5.06,5.52,6.1,6.66]},{"text":"Consequently, a phased launch strategy was adopted to allow safety evaluation before releasing the complete software package.","voice":"voice/2026-10-21-ai-how-openai-started-in/t4-6.m4a","roles":["M","S","S","S","S","V","V","M","M","M","M","M","M","M","M","M","M"],"dur":7.25,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t4-6.m4a","durJa":8.93,"times":[0.0,0.96,1.04,1.36,1.62,2.24,2.42,2.72,3.14,3.36,3.76,4.32,4.92,5.52,5.72,6.0,6.4]},{"text":"That early hesitation sparked widespread debate about responsible innovation before the firm eventually became an industry leader.","voice":"voice/2026-10-21-ai-how-openai-started-in/t4-7.m4a","roles":["S","S","S","V","O","O","O","O","O","M","S","S","M","V","C","C","C"],"dur":7.86,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t4-7.m4a","durJa":8.73,"times":[0.0,0.14,0.44,0.86,1.5,1.96,2.6,2.98,3.4,4.1,4.86,5.08,5.34,5.88,6.22,6.5,6.8]}],"bands":{"core1000":73,"core1800":12,"ngsl":5,"tsl":4,"nawl":2,"beyond":4},"grammar":[{"i":0,"focus":"was founded","title":"Passive Voice in Time Clause","note":"Passive voice (was + past participle) places focus on the organization receiving the action rather than who founded it. It sets the timeframe for the rest of the sentence."},{"i":3,"focus":"had developed","title":"Past Perfect Tense","note":"The past perfect (had + past participle) indicates that an action was completed before another point in the past ('By 2019'). It clearly establishes chronological sequence."},{"i":5,"focus":"releasing the full model right away","title":"Gerund Phrase as Subject","note":"An -ing verb phrase can act as a noun subject within a subordinate clause. Here, the action of releasing the model serves as the subject of the verb 'posed'."}]},"t5":{"sentences":[{"text":"Before OpenAI became a multi-billion-dollar juggernaut dominating headlines, it operated as a modest non-profit initiative out of a residential living room.","voice":"voice/2026-10-21-ai-how-openai-started-in/t5-0.m4a","roles":["M","S","V","C","C","C","C","C","S","V","M","M","M","M","M","M","M","M","M","M","M"],"dur":10.55,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t5-0.m4a","durJa":13.33,"times":[0.0,0.36,1.1,1.64,1.76,3.04,3.54,4.14,5.5,5.7,5.98,6.5,6.6,7.07,7.8,8.38,8.88,9.06,9.14,9.44,10.02]},{"text":"Co-founder Greg Brockman hosted the initial cohort of scientists in December 2015, united by a shared mission to develop safe artificial intelligence.","voice":"voice/2026-10-21-ai-how-openai-started-in/t5-1.m4a","roles":["S","S","S","V","O","O","O","O","O","M","M","M","M","M","M","M","M","M","M","M","M","M"],"dur":10.25,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t5-1.m4a","durJa":12.16,"times":[0.0,0.48,0.84,1.4,1.86,2.16,2.42,2.92,3.18,3.52,4.16,4.32,6.02,6.42,6.8,6.94,7.16,7.52,7.92,8.14,8.56,8.98]},{"text":"Operating on a fraction of tech giants' funding, the lean team set out to challenge established industry rivals through open research collaboration.","voice":"voice/2026-10-21-ai-how-openai-started-in/t5-2.m4a","roles":["M","M","M","M","M","M","M","M","S","S","S","V","V","M","M","M","M","M","M","M","M","M"],"dur":8.88,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t5-2.m4a","durJa":11.14,"times":[0.0,0.3,0.7,0.8,1.06,1.48,1.68,2.32,3.14,3.2,3.34,3.72,4.1,4.3,4.5,4.82,5.26,6.06,6.54,7.02,7.42,7.88]},{"text":"That idealistic approach faced its first major test in 2019 with the creation of GPT-2, an advanced language model capable of generating coherent text.","voice":"voice/2026-10-21-ai-how-openai-started-in/t5-3.m4a","roles":["S","S","S","V","O","O","O","O","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M"],"dur":11.14,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t5-3.m4a","durJa":12.12,"times":[0.0,0.08,0.82,1.28,1.72,2.08,2.4,2.7,3.14,3.52,4.06,4.94,5.04,5.42,5.95,7.18,7.42,7.62,8.1,8.54,8.9,9.3,9.74,10.1]},{"text":"To the team's surprise, the software generated prose so persuasively human that executives hesitated to release the complete software code immediately.","voice":"voice/2026-10-21-ai-how-openai-started-in/t5-4.m4a","roles":["M","M","M","M","S","S","V","O","M","M","M","M","S","V","M","M","M","M","M","M","M"],"dur":9.12,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t5-4.m4a","durJa":11.11,"times":[0.0,0.08,0.14,0.52,1.48,1.58,1.8,2.54,2.8,3.32,4.12,4.44,5.08,5.46,6.04,6.5,6.78,7.08,7.36,7.74,8.18]},{"text":"Fearing potential misuse in automated misinformation campaigns, OpenAI made the unprecedented decision to withhold the full model during its initial announcement.","voice":"voice/2026-10-21-ai-how-openai-started-in/t5-5.m4a","roles":["M","M","M","M","M","M","M","S","V","O","O","O","O","O","O","O","O","M","M","M","M"],"dur":9.78,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t5-5.m4a","durJa":10.56,"times":[0.0,0.28,0.64,1.12,1.68,2.08,2.66,4.28,4.68,5.16,5.28,5.76,6.48,6.88,7.1,7.6,7.72,8.08,8.46,8.64,8.98]},{"text":"The move ignited intense discussion across the tech sector, with critics questioning whether the danger was genuine or clever marketing.","voice":"voice/2026-10-21-ai-how-openai-started-in/t5-6.m4a","roles":["S","S","V","O","O","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M"],"dur":7.42,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t5-6.m4a","durJa":9.82,"times":[0.0,0.04,0.22,0.66,1.14,1.82,2.26,2.46,2.6,3.46,3.62,3.86,4.5,4.84,5.0,5.24,5.5,5.86,6.4,6.64]},{"text":"Looking back, that theatrical moment of caution marked a pivotal transition from informal startup culture to high-stakes global technology pioneer.","voice":"voice/2026-10-21-ai-how-openai-started-in/t5-7.m4a","roles":["M","M","S","S","S","S","S","V","O","O","O","O","O","O","O","O","O","O","O","O"],"dur":9.78,"voiceJa":"voice/2026-10-21-ai-how-openai-started-in/ja/t5-7.m4a","durJa":11.3,"times":[0.0,0.16,0.86,1.06,1.32,1.96,2.2,2.44,3.06,3.3,3.56,4.28,4.92,5.38,5.94,6.32,6.55,7.46,7.9,8.62]}],"bands":{"core1000":61,"core1800":11,"ngsl":9,"tsl":5,"nawl":4,"beyond":10},"grammar":[{"i":2,"focus":"Operating on a fraction of tech giants' funding","title":"Fronted Participle Clause","note":"A present participle phrase placed at the beginning of a sentence modifies the subject that follows. It provides background context about the conditions under which the team worked."},{"i":5,"focus":"Fearing potential misuse in automated misinformation campaigns","title":"Participial Phrase of Reason","note":"An -ing participial phrase at the start of a sentence can function like an adverbial clause showing cause. It explains why OpenAI decided to withhold the model."},{"i":6,"focus":"with critics questioning whether the danger was genuine or clever marketing","title":"With Absolute Construction","note":"The preposition 'with' followed by a noun ('critics') and a participle ('questioning') introduces accompanying circumstance. It describes an action happening alongside the main event."}]}},"glossary":[{"word":"cautious","lemma":"cautious","pos":"adjective","ipa":"/ˈkɔː.ʃəs/","definition":"careful to avoid potential problems or dangers","tiers":["t2","t3"]},{"word":"generates","lemma":"generate","pos":"verb","ipa":"/ˈdʒɛn.ə.reɪts/","definition":"produces or creates something","tiers":["t3"]},{"word":"hesitation","lemma":"hesitation","pos":"noun","ipa":"/ˌhɛz.əˈteɪ.ʃən/","definition":"a delay due to uncertainty or worry","tiers":["t4"]},{"word":"unrestricted","lemma":"unrestricted","pos":"adjective","ipa":"/ˌʌn.rɪˈstrɪk.tɪd/","definition":"not limited or restricted by rules or controls","tiers":["t4"]},{"word":"coherent","lemma":"coherent","pos":"adjective","ipa":"/koʊˈhɪr.ənt/","definition":"clear, logical, and easy to understand","tiers":["t5"]},{"word":"unprecedented","lemma":"unprecedented","pos":"adjective","ipa":"/ʌnˈprɛs.ə.dɛn.tɪd/","definition":"never done or known before","tiers":["t5"]},{"word":"pivotal","lemma":"pivotal","pos":"adjective","ipa":"/ˈpɪv.ə.təl/","definition":"of crucial importance in relation to development","tiers":["t5"]}],"words":{"openai":{"l":"OpenAI","p":"name","i":"/oʊpən.eɪ.aɪ/","d":"an artificial intelligence research company","b":"beyond","img":null},"started":{"l":"start","p":"verb","i":"/stɑːrtɪd/","d":"began operating or existing","b":"core1000","img":"art/words/start.jpg"},"in":{"l":"in","p":"prep","i":"/ɪn/","d":"located inside or within","b":"core1000","img":null},"a":{"l":"a","p":"det","i":"/ə/","d":"one unspecified thing","b":"core1000","img":null},"small":{"l":"small","p":"adj","i":"/smɔːl/","d":"little in size","b":"core1000","img":"art/words/small.jpg"},"living":{"l":"living","p":"adj","i":"/lɪvɪŋ/","d":"used for relaxing and daily activities","b":"core1000","img":null},"room":{"l":"room","p":"noun","i":"/ruːm/","d":"a part of a building enclosed by walls","b":"core1000","img":"art/words/room.jpg"},"greg":{"l":"Greg","p":"name","i":"/ɡrɛɡ/","d":"a male given name","b":"beyond","img":null},"brockman":{"l":"Brockman","p":"name","i":"/brɑːkmən/","d":"a surname","b":"beyond","img":null},"worked":{"l":"work","p":"verb","i":"/wɜːrkt/","d":"performed job duties or tasks","b":"core1000","img":null},"from":{"l":"from","p":"prep","i":"/frʌm/","d":"out of a specific location","b":"core1000","img":null},"his":{"l":"his","p":"pron","i":"/hɪz/","d":"belonging to a male person","b":"core1000","img":null},"own":{"l":"own","p":"adj","i":"/oʊn/","d":"belonging to oneself","b":"core1000","img":null},"home":{"l":"home","p":"noun","i":"/hoʊm/","d":"the place where someone lives","b":"core1000","img":"art/words/home.jpg"},"with":{"l":"with","p":"prep","i":"/wɪð/","d":"accompanied by someone","b":"core1000","img":null},"friends":{"l":"friend","p":"noun","i":"/frɛndz/","d":"people who are close companions","b":"core1000","img":"art/words/friend.jpg"},"the":{"l":"the","p":"det","i":"/ðə/","d":"used to specify a particular thing","b":"core1000","img":null},"group":{"l":"group","p":"noun","i":"/ɡruːp/","d":"a number of people together","b":"core1000","img":null},"created":{"l":"create","p":"verb","i":"/kriːˈeɪtɪd/","d":"made or produced something new","b":"core1000","img":null},"smart":{"l":"smart","p":"adj","i":"/smɑːrt/","d":"showing high intelligence or capabilities","b":"ngsl","img":null},"computer":{"l":"computer","p":"noun","i":"/kəmˈpjuːtər/","d":"an electronic machine for processing data","b":"core1000","img":"art/words/computer.jpg"},"program":{"l":"program","p":"noun","i":"/ˈproʊɡræm/","d":"a set of instructions for a computer","b":"core1000","img":null},"named":{"l":"name","p":"verb","i":"/neɪmd/","d":"given a particular title or name","b":"core1000","img":null},"gpt":{"l":"GPT","p":"name","i":"/dʒiː.piːˈtiː/","d":"an AI language model series","b":"beyond","img":null},"it":{"l":"it","p":"pron","i":"/ɪt/","d":"the program mentioned earlier","b":"core1000","img":null},"wrote":{"l":"write","p":"verb","i":"/roʊt/","d":"produced text in written form","b":"core1000","img":"art/words/write.jpg"},"sentences":{"l":"sentence","p":"noun","i":"/ˈsɛntənsəz/","d":"groups of words expressing complete thoughts","b":"core1800","img":null},"like":{"l":"like","p":"prep","i":"/laɪk/","d":"in a manner similar to","b":"core1000","img":null},"real":{"l":"real","p":"adj","i":"/riːl/","d":"actual and true, not artificial","b":"core1000","img":null},"human":{"l":"human","p":"adj","i":"/ˈhjuːmən/","d":"relating to or characteristic of people","b":"core1000","img":null},"person":{"l":"person","p":"noun","i":"/ˈpɜːrsən/","d":"an individual human being","b":"core1000","img":null},"creators":{"l":"creator","p":"noun","i":"/kriːˈeɪtərz/","d":"people who made something","b":"beyond","img":null},"feared":{"l":"fear","p":"verb","i":"/fɪrd/","d":"worried about possible danger or harm","b":"core1000","img":null},"was":{"l":"be","p":"verb","i":"/wʌz/","d":"existed or had a specified quality","b":"core1000","img":null},"too":{"l":"too","p":"adv","i":"/tuː/","d":"excessively or to a high degree","b":"core1000","img":null},"good":{"l":"good","p":"adj","i":"/ɡʊd/","d":"high in quality or effectiveness","b":"core1000","img":null},"to":{"l":"to","p":"prep","i":"/tuː/","d":"used before a verb expressing action","b":"core1000","img":null},"release":{"l":"release","p":"verb","i":"/rɪˈliːs/","d":"make available to the public","b":"core1000","img":null},"famous":{"l":"famous","p":"adj","i":"/ˈfeɪməs/","d":"known by many people","b":"core1800","img":null},"technology":{"l":"technology","p":"noun","i":"/tɛkˈnɑːlədʒi/","d":"scientific knowledge applied for practical purposes","b":"core1000","img":null},"plain":{"l":"plain","p":"adj","i":"/pleɪn/","d":"simple and not fancy","b":"ngsl","img":null},"and":{"l":"and","p":"conj","i":"/ænd/","d":"used to connect words or phrases","b":"core1000","img":null},"team":{"l":"team","p":"noun","i":"/tiːm/","d":"a group of people working together","b":"core1000","img":"art/words/team.jpg"},"hard":{"l":"hard","p":"adv","i":"/hɑːrd/","d":"with great energy and effort","b":"core1000","img":null},"because":{"l":"because","p":"conj","i":"/bɪˈkəz/","d":"for the reason that","b":"core1000","img":null},"they":{"l":"they","p":"pron","i":"/ðeɪ/","d":"the people previously mentioned","b":"core1000","img":null},"loved":{"l":"love","p":"verb","i":"/lʌvd/","d":"enjoyed or cared about deeply","b":"core1000","img":null},"big":{"l":"big","p":"adj","i":"/bɪɡ/","d":"important or large in scale","b":"core1000","img":"art/words/big.jpg"},"ideas":{"l":"idea","p":"noun","i":"/aɪˈdiːəz/","d":"thoughts, plans, or concepts","b":"core1000","img":null},"built":{"l":"build","p":"verb","i":"/bɪlt/","d":"created or constructed something","b":"core1000","img":"art/words/build.jpg"},"language":{"l":"language","p":"noun","i":"/ˈlæŋɡwɪdʒ/","d":"a system of communication","b":"core1000","img":null},"system":{"l":"system","p":"noun","i":"/ˈsɪstəm/","d":"a complex computer program or network","b":"core1000","img":null},"called":{"l":"call","p":"verb","i":"/kɔːld/","d":"named or referred to as","b":"core1000","img":"art/words/call.jpg"},"four":{"l":"four","p":"num","i":"/fɔːr/","d":"the number 4","b":"beyond","img":null},"years":{"l":"year","p":"noun","i":"/jɪrz/","d":"periods of twelve months","b":"core1000","img":null},"later":{"l":"later","p":"adv","i":"/ˈleɪtər/","d":"at a time in the future","b":"core1000","img":null},"text":{"l":"text","p":"noun","i":"/tɛkst/","d":"written words","b":"core1800","img":"art/words/text.jpg"},"so":{"l":"so","p":"adv","i":"/soʊ/","d":"to such a high degree","b":"core1000","img":null},"well":{"l":"well","p":"adv","i":"/wɛl/","d":"in a good or effective manner","b":"core1000","img":null},"that":{"l":"that","p":"conj","i":"/ðæt/","d":"introducing a clause expressing result","b":"core1000","img":null},"surprised":{"l":"surprise","p":"verb","i":"/sərˈpraɪzd/","d":"astonished or amazed someone","b":"core1000","img":null},"whole":{"l":"whole","p":"adj","i":"/hoʊl/","d":"entire, complete","b":"core1000","img":null},"worried":{"l":"worry","p":"verb","i":"/ˈwɜːrid/","d":"felt anxious or concerned","b":"core1000","img":null},"about":{"l":"about","p":"prep","i":"/əˈbaʊt/","d":"concerning or regarding","b":"core1000","img":null},"bad":{"l":"bad","p":"adj","i":"/bæd/","d":"harmful or undesirable","b":"core1000","img":null},"uses":{"l":"use","p":"noun","i":"/ˈjuːsəz/","d":"ways of using something","b":"core1000","img":null},"did":{"l":"do","p":"verb","i":"/dɪd/","d":"used with 'not' to form negative","b":"core1000","img":null},"not":{"l":"not","p":"adv","i":"/nɑːt/","d":"used to form a negative statement","b":"core1000","img":null},"fully":{"l":"fully","p":"adv","i":"/ˈfʊli/","d":"completely or entirely","b":"core1800","img":null},"future":{"l":"future","p":"adj","i":"/ˈfjuːtʃər/","d":"belonging to a time to come","b":"core1000","img":null},"researchers":{"l":"researcher","p":"noun","i":"/ˈriːsɜːrtʃərz/","d":"people who study a subject carefully","b":"core1800","img":null},"will":{"l":"will","p":"verb","i":"/wɪl/","d":"expressing future time","b":"core1000","img":null},"learn":{"l":"learn","p":"verb","i":"/lɜːrn/","d":"gain knowledge or understanding","b":"core1000","img":"art/words/learn.jpg"},"this":{"l":"this","p":"det","i":"/ðɪs/","d":"the specific thing mentioned","b":"core1000","img":null},"unusual":{"l":"unusual","p":"adj","i":"/ʌnˈjuːʒuəl/","d":"not common or typical","b":"ngsl","img":null},"cautious":{"l":"cautious","p":"adj","i":"/ˈkɔːʃəs/","d":"careful to avoid potential problems","b":"tsl","img":null},"early":{"l":"early","p":"adj","i":"/ˈɜːrli/","d":"belonging to the beginning of a period","b":"core1000","img":null},"decision":{"l":"decision","p":"noun","i":"/dɪˈsɪʒən/","d":"a choice made after thinking","b":"core1000","img":null},"long":{"l":"long","p":"adv","i":"/lɔːŋ/","d":"by a substantial amount of time","b":"core1000","img":"art/words/long.jpg"},"before":{"l":"before","p":"prep","i":"/bɪˈfɔːr/","d":"earlier than a specific time","b":"core1000","img":null},"became":{"l":"become","p":"verb","i":"/bɪˈkeɪm/","d":"turned into or grew to be","b":"core1000","img":null},"began":{"l":"begin","p":"verb","i":"/bɪˈɡæn/","d":"started or came into existence","b":"core1000","img":null},"inside":{"l":"inside","p":"prep","i":"/ɪnˈsaɪd/","d":"within the inner part of a space","b":"core1000","img":null},"simple":{"l":"simple","p":"adj","i":"/ˈsɪmpəl/","d":"basic or plain, not complex","b":"core1000","img":null},"co-founder":{"l":"co-founder","p":"noun","i":"/ˈkoʊˌfaʊndər/","d":"a person who starts an organization with others","b":"beyond","img":null},"hosted":{"l":"host","p":"verb","i":"/ˈhoʊstɪd/","d":"provided space and resources for a group","b":"core1800","img":null},"which":{"l":"which","p":"pron","i":"/wɪtʃ/","d":"referring to the thing just mentioned","b":"core1000","img":null},"focused":{"l":"focus","p":"verb","i":"/ˈfoʊkəst/","d":"concentrated attention or effort on something","b":"core1000","img":null},"on":{"l":"on","p":"prep","i":"/ɑːn/","d":"concerning or focused toward","b":"core1000","img":null},"non-profit":{"l":"non-profit","p":"adj","i":"/nɑːnˈprɑːfɪt/","d":"not operating to make money","b":"beyond","img":null},"research":{"l":"research","p":"noun","i":"/ˈriːsɜːrtʃ/","d":"systematic study to discover facts","b":"core1000","img":null},"organization":{"l":"organization","p":"noun","i":"/ˌɔːrɡənəˈzeɪʃən/","d":"an organized group of people with a purpose","b":"core1000","img":null},"model":{"l":"model","p":"noun","i":"/ˈmɑːdəl/","d":"a computer program designed to mimic processes","b":"core1000","img":null},"generates":{"l":"generate","p":"verb","i":"/ˈdʒɛnəˌreɪts/","d":"produces or creates","b":"core1800","img":null},"humanlike":{"l":"humanlike","p":"adj","i":"/ˈhjuːmənˌlaɪk/","d":"resembling or characteristic of a human","b":"beyond","img":null},"software":{"l":"software","p":"noun","i":"/ˈsɔːftwɛr/","d":"programs used by a computer","b":"core1800","img":null},"performed":{"l":"perform","p":"verb","i":"/pərˈfɔːrmd/","d":"functioned or operated in a certain way","b":"core1000","img":null},"effectively":{"l":"effectively","p":"adv","i":"/ɪˈfɛktɪvli/","d":"in a way that produces desired results","b":"ngsl","img":null},"shocked":{"l":"shock","p":"verb","i":"/ʃɑːkt/","d":"surprised or greatly astonished","b":"core1800","img":null},"who":{"l":"who","p":"pron","i":"/huː/","d":"referring to the people mentioned","b":"core1000","img":null},"powerful":{"l":"powerful","p":"adj","i":"/ˈpaʊərfəl/","d":"having great ability or impact","b":"core1800","img":null},"delayed":{"l":"delay","p":"verb","i":"/dɪˈleɪd/","d":"postponed or put off until later","b":"core1800","img":null},"its":{"l":"its","p":"pron","i":"/ɪts/","d":"belonging to the program","b":"core1000","img":null},"full":{"l":"full","p":"adj","i":"/fʊl/","d":"complete and not limited","b":"core1000","img":"art/words/full.jpg"},"public":{"l":"public","p":"adj","i":"/ˈpʌblɪk/","d":"available to everyone","b":"core1000","img":null},"since":{"l":"since","p":"prep","i":"/sɪns/","d":"from the time of a past event","b":"core1000","img":null},"moment":{"l":"moment","p":"noun","i":"/ˈmoʊmənt/","d":"a particular point in time","b":"core1000","img":null},"company":{"l":"company","p":"noun","i":"/ˈkʌmpəni/","d":"a business or organization","b":"core1000","img":null},"has":{"l":"have","p":"verb","i":"/hæz/","d":"auxiliary verb used with past participle","b":"core1000","img":null},"transformed":{"l":"transform","p":"verb","i":"/trænsˈfɔːrmd/","d":"changed completely in form or nature","b":"ngsl","img":null},"into":{"l":"into","p":"prep","i":"/ˈɪntuː/","d":"changing to become something else","b":"core1000","img":null},"global":{"l":"global","p":"adj","i":"/ˈɡloʊbəl/","d":"relating to the whole world","b":"core1800","img":null},"giant":{"l":"giant","p":"noun","i":"/ˈdʒaɪənt/","d":"a very large and powerful organization","b":"ngsl","img":null},"today":{"l":"today","p":"adv","i":"/təˈdeɪ/","d":"at the present time","b":"core1000","img":null},"millions":{"l":"million","p":"noun","i":"/ˈmɪljənz/","d":"very large numbers of people or things","b":"beyond","img":null},"of":{"l":"of","p":"prep","i":"/ʌv/","d":"belonging to or relating to","b":"core1000","img":null},"people":{"l":"person","p":"noun","i":"/ˈpiːpəl/","d":"human beings in general","b":"core1000","img":null},"have":{"l":"have","p":"verb","i":"/hæv/","d":"auxiliary verb forming present perfect tense","b":"core1000","img":null},"used":{"l":"use","p":"verb","i":"/juːzd/","d":"employed something for a purpose","b":"core1000","img":null},"tools":{"l":"tool","p":"noun","i":"/tuːlz/","d":"instruments or software used to perform tasks","b":"core1800","img":"art/words/tool.jpg"},"grew":{"l":"grow","p":"verb","i":"/ɡruː/","d":"developed or originated from a specific starting point","b":"core1000","img":"art/words/grow.jpg"},"those":{"l":"that","p":"det","i":"/ðoʊz/","d":"referring to specific things previously mentioned","b":"core1000","img":null},"humble":{"l":"humble","p":"adj","i":"/ˈhʌm.bəl/","d":"modest or simple in position or scale","b":"beyond","img":null},"beginnings":{"l":"beginning","p":"noun","i":"/bɪˈɡɪn.ɪŋz/","d":"the starting points or early stages of something","b":"core1000","img":null},"when":{"l":"when","p":"conj","i":"/wɛn/","d":"at or during the time that","b":"core1000","img":null},"founded":{"l":"found","p":"verb","i":"/ˈfaʊn.dɪd/","d":"established or created an organization","b":"ngsl","img":null},"december":{"l":"December","p":"name","i":"/dɪˈsɛm.bɚ/","d":"the twelfth month of the year","b":"beyond","img":null},"original":{"l":"original","p":"adj","i":"/əˈrɪdʒ.ə.nəl/","d":"existing from the beginning; first","b":"core1000","img":null},"operated":{"l":"operate","p":"verb","i":"/ˈɑː.pə.reɪ.tɪd/","d":"conducted activities or worked from a location","b":"core1000","img":null},"entirely":{"l":"entirely","p":"adv","i":"/ɪnˈtaɪɚ.li/","d":"completely and solely","b":"core1800","img":null},"out":{"l":"out","p":"prep","i":"/aʊt/","d":"from a specific place or base of operations","b":"core1000","img":null},"private":{"l":"private","p":"adj","i":"/ˈpraɪ.vət/","d":"intended for or belonging to one particular person","b":"core1000","img":null},"provided":{"l":"provide","p":"verb","i":"/prəˈvaɪ.dɪd/","d":"supplied or made something available for use","b":"core1000","img":null},"workspace":{"l":"workspace","p":"noun","i":"/ˈwɝːk.speɪs/","d":"a space used or allocated for working","b":"beyond","img":null},"while":{"l":"while","p":"conj","i":"/waɪl/","d":"during the time that","b":"core1000","img":null},"lab":{"l":"lab","p":"noun","i":"/læb/","d":"a place or organization for scientific research","b":"tsl","img":null},"recruited":{"l":"recruit","p":"verb","i":"/rɪˈkruː.tɪd/","d":"enlisted or hired someone to join an organization","b":"ngsl","img":null},"very":{"l":"very","p":"adv","i":"/ˈvɛr.i/","d":"used to emphasize exactness or being the first","b":"core1000","img":null},"first":{"l":"first","p":"adj","i":"/fɝːst/","d":"coming before all others in order or time","b":"core1000","img":null},"scientists":{"l":"scientist","p":"noun","i":"/ˈsaɪ.ən.tɪsts/","d":"people who study or work in science","b":"core1800","img":"art/words/scientist.jpg"},"established":{"l":"establish","p":"verb","i":"/ɪˈstæb.lɪʃt/","d":"set up or created on a firm basis","b":"core1000","img":null},"ensure":{"l":"ensure","p":"verb","i":"/ɪnˈʃʊr/","d":"to make sure or certain that something happens","b":"core1800","img":null},"artificial":{"l":"artificial","p":"adj","i":"/ˌɑːr.t̬əˈfɪʃ.əl/","d":"made by humans rather than occurring naturally","b":"nawl","img":null},"intelligence":{"l":"intelligence","p":"noun","i":"/ɪnˈtɛl.ə.dʒəns/","d":"ability to learn, understand, and apply knowledge","b":"core1800","img":null},"would":{"l":"would","p":"verb","i":"/wʊd/","d":"used to express future intention from a past perspective","b":"core1000","img":null},"safely":{"l":"safely","p":"adv","i":"/ˈseɪf.li/","d":"in a way that causes no harm or danger","b":"tsl","img":null},"benefit":{"l":"benefit","p":"verb","i":"/ˈbɛn.ə.fɪt/","d":"to bring help or an advantage to someone","b":"core1000","img":null},"all":{"l":"all","p":"det","i":"/ɑːl/","d":"the whole quantity or extent of","b":"core1000","img":null},"humanity":{"l":"humanity","p":"noun","i":"/hjuːˈmæn.ə.ti/","d":"all human beings collectively","b":"beyond","img":null},"rather":{"l":"rather","p":"adv","i":"/ˈræð.ɚ/","d":"instead of; in contrast to","b":"core1000","img":null},"than":{"l":"than","p":"conj","i":"/ðæn/","d":"used to introduce a second element in a contrast","b":"core1000","img":null},"interests":{"l":"interest","p":"noun","i":"/ˈɪn.trɪsts/","d":"advantages, benefits, or financial stakes","b":"core1000","img":null},"by":{"l":"by","p":"prep","i":"/baɪ/","d":"not later than a specific point in time","b":"core1000","img":null},"had":{"l":"have","p":"verb","i":"/hæd/","d":"used as an auxiliary verb for past perfect tense","b":"core1000","img":null},"developed":{"l":"develop","p":"verb","i":"/dɪˈvɛl.əpt/","d":"created or built a product or system","b":"core1000","img":null},"large":{"l":"large","p":"adj","i":"/lɑːrdʒ/","d":"big in size, capacity, or scope","b":"core1000","img":"art/words/big.jpg"},"designed":{"l":"design","p":"verb","i":"/dɪˈzaɪnd/","d":"planned or created for a specific purpose","b":"core1000","img":null},"process":{"l":"process","p":"verb","i":"/ˈprɑː.sɛs/","d":"perform operations on data or information","b":"core1000","img":null},"generate":{"l":"generate","p":"verb","i":"/ˈdʒɛn.ə.reɪt/","d":"produce or create something automatically","b":"core1800","img":null},"natural":{"l":"natural","p":"adj","i":"/ˈnætʃ.ɚ.əl/","d":"resembling language produced normally by humans","b":"core1000","img":null},"however":{"l":"however","p":"adv","i":"/haʊˈɛv.ɚ/","d":"used to introduce a statement contrasting with something said","b":"core1000","img":null},"produced":{"l":"produce","p":"verb","i":"/prəˈduːst/","d":"created or generated output","b":"core1000","img":null},"writing":{"l":"writing","p":"noun","i":"/ˈraɪ.t̬ɪŋ/","d":"written text or passages","b":"core1000","img":"art/words/text.jpg"},"considered":{"l":"consider","p":"verb","i":"/kənˈsɪd.ɚd/","d":"regarded or judged to be","b":"core1000","img":null},"almost":{"l":"almost","p":"adv","i":"/ˈɑːl.moʊst/","d":"nearly or very close to","b":"core1000","img":null},"convincing":{"l":"convincing","p":"adj","i":"/kənˈvɪn.sɪŋ/","d":"believable and persuasive","b":"core1800","img":null},"for":{"l":"for","p":"prep","i":"/fɔːr/","d":"suitable or appropriate regarding","b":"core1000","img":null},"immediate":{"l":"immediate","p":"adj","i":"/ɪˈmiː.di.ət/","d":"occurring right away without delay","b":"ngsl","img":null},"unrestricted":{"l":"unrestricted","p":"adj","i":"/ˌʌn.rɪˈstrɪk.tɪd/","d":"not limited or controlled by rules","b":"beyond","img":null},"distribution":{"l":"distribution","p":"noun","i":"/ˌdɪs.trəˈbjuː.ʃən/","d":"the act of sharing or supplying something widely","b":"tsl","img":null},"leaders":{"l":"leader","p":"noun","i":"/ˈliː.dɚz/","d":"people in charge of an organization","b":"core1000","img":null},"reported":{"l":"report","p":"verb","i":"/rɪˈpɔːr.tɪd/","d":"stated or announced official information","b":"core1000","img":null},"releasing":{"l":"release","p":"verb","i":"/rɪˈliː.sɪŋ/","d":"making something available to the public","b":"core1000","img":null},"right":{"l":"right","p":"adv","i":"/raɪt/","d":"immediately (used as part of 'right away')","b":"core1000","img":null},"away":{"l":"away","p":"adv","i":"/əˈweɪ/","d":"immediately (used as part of 'right away')","b":"core1000","img":null},"posed":{"l":"pose","p":"verb","i":"/poʊzd/","d":"presented or constituted a risk or threat","b":"ngsl","img":null},"significant":{"l":"significant","p":"adj","i":"/sɪɡˈnɪf.ə.kənt/","d":"large or important enough to cause concern","b":"core1000","img":null},"risks":{"l":"risk","p":"noun","i":"/rɪsks/","d":"possibilities of something bad or harmful happening","b":"core1000","img":null},"regarding":{"l":"regarding","p":"prep","i":"/rɪˈɡɑːr.dɪŋ/","d":"concerning or about a topic","b":"core1000","img":null},"potential":{"l":"potential","p":"adj","i":"/pəˈtɛn.ʃəl/","d":"possible; capable of becoming real","b":"core1000","img":null},"automated":{"l":"automated","p":"adj","i":"/ˈɑː.t̬ə.meɪ.t̬ɪd/","d":"operated automatically by machines or software","b":"tsl","img":null},"misuse":{"l":"misuse","p":"noun","i":"/ˌmɪsˈjuːs/","d":"the wrong or harmful use of something","b":"beyond","img":null},"consequently":{"l":"consequently","p":"adv","i":"/ˈkɑːn.sə.kwənt.li/","d":"as a result; therefore","b":"ngsl","img":null},"phased":{"l":"phased","p":"adj","i":"/feɪzd/","d":"carried out in gradual planned stages","b":"core1800","img":null},"launch":{"l":"launch","p":"noun","i":"/lɑːntʃ/","d":"an act of introducing a new product","b":"core1800","img":null},"strategy":{"l":"strategy","p":"noun","i":"/ˈstræt.ə.dʒi/","d":"a plan of action to achieve a goal","b":"core1000","img":null},"adopted":{"l":"adopt","p":"verb","i":"/əˈdɑːp.tɪd/","d":"chose and put into effect a plan","b":"core1800","img":null},"allow":{"l":"allow","p":"verb","i":"/əˈlaʊ/","d":"make it possible for something to happen","b":"core1000","img":null},"safety":{"l":"safety","p":"noun","i":"/ˈseɪf.ti/","d":"freedom from danger or potential harm","b":"core1800","img":null},"evaluation":{"l":"evaluation","p":"noun","i":"/ɪˌvæl.juˈeɪ.ʃən/","d":"the judgment or assessment of quality or risk","b":"ngsl","img":null},"complete":{"l":"complete","p":"adj","i":"/kəmˈpliːt/","d":"having all necessary parts; whole","b":"core1000","img":null},"package":{"l":"package","p":"noun","i":"/ˈpæk.ɪdʒ/","d":"a set of related software programs combined together","b":"core1800","img":"art/words/package.jpg"},"hesitation":{"l":"hesitation","p":"noun","i":"/ˌhɛz.əˈteɪ.ʃən/","d":"uncertainty or delay before acting","b":"tsl","img":null},"sparked":{"l":"spark","p":"verb","i":"/spɑːrkt/","d":"triggered or initiated something to happen","b":"beyond","img":null},"widespread":{"l":"widespread","p":"adj","i":"/ˌwaɪdˈsprɛd/","d":"existing or happening over a large area or group","b":"nawl","img":null},"debate":{"l":"debate","p":"noun","i":"/dɪˈbeɪt/","d":"formal discussion on a particular topic","b":"core1000","img":null},"responsible":{"l":"responsible","p":"adj","i":"/rɪˈspɑːn.sə.bəl/","d":"showing good judgment and care for safety","b":"core1800","img":null},"innovation":{"l":"innovation","p":"noun","i":"/ˌɪn.əˈveɪ.ʃən/","d":"the creation or introduction of new ideas or technology","b":"ngsl","img":null},"firm":{"l":"firm","p":"noun","i":"/fɝːm/","d":"a company or business organization","b":"core1000","img":null},"eventually":{"l":"eventually","p":"adv","i":"/ɪˈvɛn.tʃu.ə.li/","d":"in the end or after a period of time","b":"core1800","img":null},"an":{"l":"an","p":"det","i":"/æn/","d":"used before a vowel sound to mean one","b":"core1000","img":null},"industry":{"l":"industry","p":"noun","i":"/ˈɪn.də.stri/","d":"a specific category of commercial enterprise","b":"core1000","img":null},"leader":{"l":"leader","p":"noun","i":"/ˈliː.dɚ/","d":"a dominant organization or company in a field","b":"core1000","img":null},"multi-billion-dollar":{"l":"multi-billion-dollar","p":"adj","i":"/ˌmʌl.tiˈbɪl.jənˈdɑː.lɚ/","d":"valued at or earning several billion dollars","b":"beyond","img":null},"juggernaut":{"l":"juggernaut","p":"noun","i":"/ˈdʒʌɡ.ɚ.nɑːt/","d":"a massive and powerful force or organization","b":"beyond","img":null},"dominating":{"l":"dominate","p":"verb","i":"/ˈdɑː.mə.neɪ.t̬ɪŋ/","d":"being the most prominent feature of","b":"ngsl","img":null},"headlines":{"l":"headline","p":"noun","i":"/ˈhɛd.laɪnz/","d":"the main news titles or prominent news stories","b":"beyond","img":null},"as":{"l":"as","p":"prep","i":"/æz/","d":"in the role or capacity of","b":"core1000","img":null},"modest":{"l":"modest","p":"adj","i":"/ˈmɑː.dɪst/","d":"relatively small or limited in size or scope","b":"ngsl","img":null},"initiative":{"l":"initiative","p":"noun","i":"/ɪˈnɪʃ.ə.t̬ɪv/","d":"an important new project or program","b":"ngsl","img":null},"residential":{"l":"residential","p":"adj","i":"/ˌrɛz.əˈdɛn.ʃəl/","d":"designed for or relating to private housing","b":"tsl","img":null},"initial":{"l":"initial","p":"adj","i":"/ɪˈnɪʃ.əl/","d":"occurring at the beginning; first","b":"core1800","img":null},"cohort":{"l":"cohort","p":"noun","i":"/ˈkoʊ.hɔːrt/","d":"a group of people banded together for a purpose","b":"beyond","img":null},"united":{"l":"unite","p":"verb","i":"/juːˈnaɪ.t̬ɪd/","d":"joined together for a common purpose","b":"ngsl","img":null},"shared":{"l":"shared","p":"adj","i":"/ʃɛrd/","d":"held or common to multiple people","b":"core1000","img":null},"mission":{"l":"mission","p":"noun","i":"/ˈmɪʃ.ən/","d":"an important goal or purpose of an organization","b":"core1800","img":null},"develop":{"l":"develop","p":"verb","i":"/dɪˈvɛl.əp/","d":"create, build, or refine technology over time","b":"core1000","img":null},"safe":{"l":"safe","p":"adj","i":"/seɪf/","d":"free from harm or threat of danger","b":"core1800","img":null},"operating":{"l":"operate","p":"verb","i":"/ˈɑː.pə.reɪ.t̬ɪŋ/","d":"functioning or carrying out activities","b":"core1000","img":null},"fraction":{"l":"fraction","p":"noun","i":"/ˈfræk.ʃən/","d":"a small part or portion of a whole amount","b":"nawl","img":null},"tech":{"l":"tech","p":"noun","i":"/tɛk/","d":"technology or companies in the technology sector","b":"tsl","img":null},"giants":{"l":"giant","p":"noun","i":"/ˈdʒaɪ.ənts/","d":"very large and powerful companies","b":"ngsl","img":null},"funding":{"l":"funding","p":"noun","i":"/ˈfʌn.dɪŋ/","d":"financial resources provided for a project","b":"core1000","img":null},"lean":{"l":"lean","p":"adj","i":"/liːn/","d":"operating efficiently with minimal resources or staff","b":"ngsl","img":null},"set":{"l":"set","p":"verb","i":"/sɛt/","d":"began an enterprise or attempt (used with 'out')","b":"core1000","img":null},"challenge":{"l":"challenge","p":"verb","i":"/ˈtʃæl.ɪndʒ/","d":"compete against or confront a dominant rival","b":"core1000","img":null},"rivals":{"l":"rival","p":"noun","i":"/ˈraɪ.vəlz/","d":"competitors in the same field or market","b":"ngsl","img":null},"through":{"l":"through","p":"prep","i":"/θruː/","d":"by means of; using a particular method","b":"core1000","img":null},"open":{"l":"open","p":"adj","i":"/ˈoʊ.pən/","d":"transparent and accessible to everyone","b":"core1000","img":"art/words/open.jpg"},"collaboration":{"l":"collaboration","p":"noun","i":"/kəˌlæb.əˈreɪ.ʃən/","d":"the act of working together jointly","b":"tsl","img":null},"idealistic":{"l":"idealistic","p":"adj","i":"/ˌaɪ.di.əˈlɪs.tɪk/","d":"guided by high principles rather than practical constraints","b":"beyond","img":null},"approach":{"l":"approach","p":"noun","i":"/əˈproʊtʃ/","d":"a way of dealing with a task or situation","b":"core1000","img":null},"faced":{"l":"face","p":"verb","i":"/feɪst/","d":"encountered or dealt with a situation","b":"core1000","img":"art/words/face.jpg"},"major":{"l":"major","p":"adj","i":"/ˈmeɪ.dʒɚ/","d":"important, serious, or significant","b":"core1000","img":null},"test":{"l":"test","p":"noun","i":"/tɛst/","d":"a critical situation that assesses ability or strength","b":"core1000","img":null},"creation":{"l":"creation","p":"noun","i":"/kriˈeɪ.ʃən/","d":"the act of making or inventing something new","b":"ngsl","img":null},"advanced":{"l":"advanced","p":"adj","i":"/ədˈvænst/","d":"highly developed or sophisticated in design","b":"core1000","img":null},"capable":{"l":"capable","p":"adj","i":"/ˈkeɪ.pə.bəl/","d":"having the ability to perform a task","b":"ngsl","img":null},"generating":{"l":"generate","p":"verb","i":"/ˈdʒɛn.ə.reɪ.t̬ɪŋ/","d":"producing or creating text or data","b":"core1800","img":null},"coherent":{"l":"coherent","p":"adj","i":"/koʊˈhɪr.ənt/","d":"logical, clear, and well-structured","b":"nawl","img":null},"team's":{"l":"team","p":"noun","i":"/tiːmz/","d":"group of people working together on a task","b":"core1000","img":"art/words/team.jpg"},"surprise":{"l":"surprise","p":"noun","i":"/sərˈpraɪz/","d":"an unexpected or astonishing event or fact","b":"core1000","img":null},"generated":{"l":"generate","p":"verb","i":"/ˈdʒɛnəˌreɪtəd/","d":"produced or created something","b":"core1800","img":null},"prose":{"l":"prose","p":"noun","i":"/proʊz/","d":"written language in ordinary form","b":"beyond","img":null},"persuasively":{"l":"persuasively","p":"adv","i":"/pərˈsweɪsɪvli/","d":"in a convincing manner","b":"beyond","img":null},"executives":{"l":"executive","p":"noun","i":"/ɪɡˈzɛkjətɪvz/","d":"senior managers in an organization","b":"core1800","img":null},"hesitated":{"l":"hesitate","p":"verb","i":"/ˈhɛzəˌteɪtəd/","d":"paused before acting due to uncertainty","b":"ngsl","img":null},"code":{"l":"code","p":"noun","i":"/koʊd/","d":"instructions written for a computer program","b":"core1800","img":"art/words/code.jpg"},"immediately":{"l":"immediately","p":"adv","i":"/ɪˈmiːdiətli/","d":"right away without delay","b":"core1000","img":null},"fearing":{"l":"fear","p":"verb","i":"/ˈfɪrɪŋ/","d":"being afraid or anxious about something","b":"core1000","img":null},"misinformation":{"l":"misinformation","p":"noun","i":"/ˌmɪsɪnfərˈmeɪʃən/","d":"false or inaccurate information","b":"beyond","img":null},"campaigns":{"l":"campaign","p":"noun","i":"/kæmˈpeɪnz/","d":"organized series of activities to achieve a goal","b":"core1000","img":null},"made":{"l":"make","p":"verb","i":"/meɪd/","d":"carried out an action or reached a decision","b":"core1000","img":"art/words/make.jpg"},"unprecedented":{"l":"unprecedented","p":"adj","i":"/ʌnˈprɛsɪˌdɛntɪd/","d":"never done or known before","b":"beyond","img":null},"withhold":{"l":"withhold","p":"verb","i":"/wɪðˈhoʊld/","d":"refuse to give or disclose something","b":"beyond","img":null},"during":{"l":"during","p":"prep","i":"/ˈdʊrɪŋ/","d":"throughout or at a point in a period","b":"core1000","img":null},"announcement":{"l":"announcement","p":"noun","i":"/əˈnaʊnsmənt/","d":"a formal public statement","b":"ngsl","img":null},"move":{"l":"move","p":"noun","i":"/muːv/","d":"an action taken to achieve something","b":"core1000","img":null},"ignited":{"l":"ignite","p":"verb","i":"/ɪɡˈnaɪtɪd/","d":"triggered or sparked a reaction","b":"beyond","img":null},"intense":{"l":"intense","p":"adj","i":"/ɪnˈtɛns/","d":"very strong or extreme","b":"ngsl","img":null},"discussion":{"l":"discussion","p":"noun","i":"/dɪˈskʌʃən/","d":"talk or debate about a topic","b":"core1000","img":null},"across":{"l":"across","p":"prep","i":"/əˈkrɔs/","d":"throughout an entire area or system","b":"core1000","img":null},"sector":{"l":"sector","p":"noun","i":"/ˈsɛktər/","d":"an area of economy or industry","b":"core1800","img":null},"critics":{"l":"critic","p":"noun","i":"/ˈkrɪtɪks/","d":"people who express disapproval or judgment","b":"core1800","img":null},"questioning":{"l":"question","p":"verb","i":"/ˈkwɛstʃənɪŋ/","d":"expressing doubt about something","b":"core1000","img":null},"whether":{"l":"whether","p":"conj","i":"/ˈwɛðər/","d":"expressing a choice or doubt between alternatives","b":"core1000","img":null},"danger":{"l":"danger","p":"noun","i":"/ˈdeɪndʒər/","d":"possibility of harm or trouble","b":"core1800","img":null},"genuine":{"l":"genuine","p":"adj","i":"/ˈdʒɛnjuwɪn/","d":"real, authentic, or sincere","b":"ngsl","img":null},"or":{"l":"or","p":"conj","i":"/ɔr/","d":"used to connect possibilities or alternatives","b":"core1000","img":null},"clever":{"l":"clever","p":"adj","i":"/ˈklɛvər/","d":"skillful, intelligent, or sharp","b":"nawl","img":null},"marketing":{"l":"marketing","p":"noun","i":"/ˈmɑrkətɪŋ/","d":"activities promoting and selling products or services","b":"core1000","img":null},"looking":{"l":"look","p":"verb","i":"/ˈlʊkɪŋ/","d":"reflecting or thinking about past events","b":"core1000","img":"art/words/look.jpg"},"back":{"l":"back","p":"adv","i":"/bæk/","d":"into or toward the past","b":"core1000","img":null},"theatrical":{"l":"theatrical","p":"adj","i":"/θiˈætrɪkəl/","d":"exaggerated or calculated for effect","b":"beyond","img":null},"caution":{"l":"caution","p":"noun","i":"/ˈkɔʃən/","d":"care taken to avoid danger or mistakes","b":"tsl","img":null},"marked":{"l":"mark","p":"verb","i":"/mɑrkt/","d":"indicated or represented a change","b":"core1000","img":null},"pivotal":{"l":"pivotal","p":"adj","i":"/ˈpɪvətəl/","d":"crucially important or decisive","b":"beyond","img":null},"transition":{"l":"transition","p":"noun","i":"/trænˈzɪʃən/","d":"process of changing from one state to another","b":"ngsl","img":null},"informal":{"l":"informal","p":"adj","i":"/ɪnˈfɔrməl/","d":"relaxed, casual, or unofficial","b":"tsl","img":null},"startup":{"l":"startup","p":"noun","i":"/ˈstɑrtˌʌp/","d":"a newly established business or company","b":"beyond","img":null},"culture":{"l":"culture","p":"noun","i":"/ˈkʌltʃər/","d":"attitudes and behavior characteristic of an organization","b":"core1000","img":null},"high-stakes":{"l":"high-stakes","p":"adj","i":"/ˈhaɪˈsteɪks/","d":"involving major risks or large rewards","b":"beyond","img":null},"pioneer":{"l":"pioneer","p":"noun","i":"/ˌpaɪəˈnɪr/","d":"a person or group developing new ideas or methods","b":"beyond","img":null}},"image":"art/headlines/ai_03.jpg","narrator":"Leda"}
+{
+ "id": "2026-10-21-ai-how-openai-started-in",
+ "date": "2026-10-21",
+ "topic": "ai",
+ "region": "americas",
+ "headline": "How OpenAI Started in a Living Room",
+ "source": {
+  "name": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/OpenAI"
+ },
+ "accent": "uk",
+ "tiers": {
+  "t1": {
+   "sentences": [
+    {
+     "text": "OpenAI started in a small living room in 2015.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t1-0.m4a",
+     "roles": [
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 4.33,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t1-0.m4a",
+     "durJa": 5.3,
+     "times": [
+      0.0,
+      0.62,
+      1.44,
+      1.7,
+      1.8,
+      2.08,
+      2.52,
+      2.8,
+      3.12
+     ]
+    },
+    {
+     "text": "Greg Brockman worked from his own home with friends.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t1-1.m4a",
+     "roles": [
+      "S",
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 3.21,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t1-1.m4a",
+     "durJa": 4.15,
+     "times": [
+      0.0,
+      0.1,
+      0.74,
+      1.12,
+      1.44,
+      1.6,
+      1.84,
+      2.16,
+      2.5
+     ]
+    },
+    {
+     "text": "The group created a smart computer program named GPT-2.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t1-2.m4a",
+     "roles": [
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+     ],
+     "dur": 4.86,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t1-2.m4a",
+     "durJa": 5.72,
+     "times": [
+      0.0,
+      0.06,
+      0.28,
+      0.82,
+      1.16,
+      1.44,
+      1.86,
+      2.66,
+      3.45
+     ]
+    },
+    {
+     "text": "It wrote sentences like a real human person.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t1-3.m4a",
+     "roles": [
+      "S",
+      "V",
+      "O",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 3.16,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t1-3.m4a",
+     "durJa": 3.18,
+     "times": [
+      0.0,
+      0.08,
+      0.26,
+      0.78,
+      1.3,
+      1.52,
+      1.8,
+      2.32
+     ]
+    },
+    {
+     "text": "The creators feared it was too good to release.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t1-4.m4a",
+     "roles": [
+      "S",
+      "S",
+      "V",
+      "S",
+      "V",
+      "C",
+      "C",
+      "C",
+      "C"
+     ],
+     "dur": 3.53,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t1-4.m4a",
+     "durJa": 4.94,
+     "times": [
+      0.0,
+      0.08,
+      0.38,
+      0.94,
+      1.4,
+      1.56,
+      1.84,
+      2.22,
+      2.54
+     ]
+    }
+   ],
+   "bands": {
+    "core1000": 89,
+    "core1800": 2,
+    "ngsl": 2,
+    "tsl": 0,
+    "nawl": 0,
+    "beyond": 7
+   },
+   "grammar": [
+    {
+     "i": 3,
+     "focus": "like a real human person",
+     "title": "Simile with Preposition Like",
+     "note": "The word 'like' is used as a preposition to compare two things. Here, it compares how the program wrote text to how a person writes."
+    },
+    {
+     "i": 4,
+     "focus": "too good to release",
+     "title": "Too ... To Infinitive Pattern",
+     "note": "This structure means something has so much of a quality that a certain action cannot or should not happen. It explains that the program was so good that creators decided not to release it."
+    }
+   ]
+  },
+  "t2": {
+   "sentences": [
+    {
+     "text": "A famous technology group started in a plain living room in 2015.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t2-0.m4a",
+     "roles": [
+      "S",
+      "S",
+      "S",
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 5.02,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t2-0.m4a",
+     "durJa": 6.59,
+     "times": [
+      0.0,
+      0.18,
+      0.54,
+      1.04,
+      1.6,
+      2.06,
+      2.48,
+      2.56,
+      2.84,
+      3.22,
+      3.48,
+      3.8
+     ]
+    },
+    {
+     "text": "Greg Brockman and his team worked hard because they loved big ideas.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t2-1.m4a",
+     "roles": [
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "V",
+      "M",
+      "M",
+      "S",
+      "V",
+      "O",
+      "O"
+     ],
+     "dur": 5.04,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t2-1.m4a",
+     "durJa": 6.05,
+     "times": [
+      0.0,
+      0.2,
+      0.72,
+      1.06,
+      1.26,
+      1.52,
+      2.2,
+      2.66,
+      3.18,
+      3.4,
+      3.78,
+      4.18
+     ]
+    },
+    {
+     "text": "They built a smart language system called GPT-2 four years later.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t2-2.m4a",
+     "roles": [
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 5.21,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t2-2.m4a",
+     "durJa": 6.09,
+     "times": [
+      0.0,
+      0.1,
+      0.38,
+      0.6,
+      0.88,
+      1.48,
+      1.96,
+      2.97,
+      3.84,
+      4.28,
+      4.58
+     ]
+    },
+    {
+     "text": "The system wrote text so well that it surprised the whole team.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t2-3.m4a",
+     "roles": [
+      "S",
+      "S",
+      "V",
+      "O",
+      "M",
+      "M",
+      "M",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O"
+     ],
+     "dur": 4.23,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t2-3.m4a",
+     "durJa": 5.52,
+     "times": [
+      0.0,
+      0.08,
+      0.38,
+      0.68,
+      1.06,
+      1.54,
+      1.94,
+      2.38,
+      2.52,
+      2.82,
+      3.38,
+      3.6
+     ]
+    },
+    {
+     "text": "They worried about bad uses, so they did not release it fully.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t2-4.m4a",
+     "roles": [
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "S",
+      "V",
+      "V",
+      "V",
+      "O",
+      "M"
+     ],
+     "dur": 3.94,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t2-4.m4a",
+     "durJa": 5.33,
+     "times": [
+      0.0,
+      0.1,
+      0.34,
+      0.74,
+      1.14,
+      2.1,
+      2.34,
+      2.46,
+      2.6,
+      2.82,
+      3.2,
+      3.42
+     ]
+    },
+    {
+     "text": "Future researchers will learn from this unusual and cautious early decision.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t2-5.m4a",
+     "roles": [
+      "S",
+      "S",
+      "V",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 5.18,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t2-5.m4a",
+     "durJa": 5.62,
+     "times": [
+      0.0,
+      0.32,
+      0.72,
+      1.18,
+      1.5,
+      1.78,
+      1.98,
+      2.68,
+      3.06,
+      3.48,
+      4.1
+     ]
+    }
+   ],
+   "bands": {
+    "core1000": 86,
+    "core1800": 6,
+    "ngsl": 4,
+    "tsl": 1,
+    "nawl": 0,
+    "beyond": 3
+   },
+   "grammar": [
+    {
+     "i": 1,
+     "focus": "because",
+     "title": "Causative Subordinating Conjunction",
+     "note": "The conjunction 'because' introduces a clause that gives the reason for an action. In this sentence, it explains why the team worked so hard."
+    },
+    {
+     "i": 3,
+     "focus": "so well that",
+     "title": "So ... That Result Clause",
+     "note": "This pattern shows a cause-and-effect relationship. 'So well' describes the degree of performance, and 'that' leads into the surprising result."
+    }
+   ]
+  },
+  "t3": {
+   "sentences": [
+    {
+     "text": "Long before OpenAI became famous, the group began inside a simple home living room.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t3-0.m4a",
+     "roles": [
+      "M",
+      "M",
+      "S",
+      "V",
+      "C",
+      "S",
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 6.59,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t3-0.m4a",
+     "durJa": 7.57,
+     "times": [
+      0.0,
+      0.32,
+      0.76,
+      1.52,
+      2.02,
+      3.18,
+      3.28,
+      3.5,
+      3.96,
+      4.46,
+      4.9,
+      5.22,
+      5.58,
+      6.02
+     ]
+    },
+    {
+     "text": "Co-founder Greg Brockman hosted the early team, which focused on non-profit technology research.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t3-1.m4a",
+     "roles": [
+      "S",
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 6.42,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t3-1.m4a",
+     "durJa": 7.95,
+     "times": [
+      0.0,
+      0.5,
+      0.86,
+      1.42,
+      1.9,
+      2.22,
+      2.44,
+      3.38,
+      3.5,
+      3.78,
+      4.01,
+      4.86,
+      5.42
+     ]
+    },
+    {
+     "text": "In 2019, the organization created GPT-2, a language model that generates humanlike text.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t3-2.m4a",
+     "roles": [
+      "M",
+      "M",
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "S",
+      "V",
+      "O",
+      "O"
+     ],
+     "dur": 7.51,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t3-2.m4a",
+     "durJa": 7.73,
+     "times": [
+      0.0,
+      0.06,
+      1.36,
+      1.52,
+      1.84,
+      3.26,
+      4.5,
+      4.58,
+      4.8,
+      5.28,
+      5.54,
+      5.92,
+      6.78
+     ]
+    },
+    {
+     "text": "The software performed so effectively that it shocked the researchers who created it.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t3-3.m4a",
+     "roles": [
+      "S",
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "S",
+      "V",
+      "O",
+      "O",
+      "S",
+      "V",
+      "O"
+     ],
+     "dur": 4.87,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t3-3.m4a",
+     "durJa": 6.59,
+     "times": [
+      0.0,
+      0.08,
+      0.3,
+      0.78,
+      1.32,
+      1.82,
+      2.58,
+      2.7,
+      2.94,
+      3.28,
+      3.62,
+      4.04,
+      4.36
+     ]
+    },
+    {
+     "text": "They feared the program was too powerful, so they delayed its full public release.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t3-4.m4a",
+     "roles": [
+      "S",
+      "V",
+      "S",
+      "S",
+      "V",
+      "C",
+      "C",
+      "M",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O"
+     ],
+     "dur": 4.97,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t3-4.m4a",
+     "durJa": 6.46,
+     "times": [
+      0.0,
+      0.1,
+      0.38,
+      0.58,
+      0.9,
+      1.24,
+      1.52,
+      2.58,
+      2.74,
+      2.9,
+      3.2,
+      3.6,
+      3.86,
+      4.22
+     ]
+    },
+    {
+     "text": "Since that cautious moment, the company has transformed into a global technology giant.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t3-5.m4a",
+     "roles": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "S",
+      "S",
+      "V",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 5.61,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t3-5.m4a",
+     "durJa": 5.82,
+     "times": [
+      0.0,
+      0.18,
+      0.42,
+      0.84,
+      1.86,
+      2.06,
+      2.32,
+      2.64,
+      3.08,
+      3.64,
+      3.78,
+      4.06,
+      4.54
+     ]
+    },
+    {
+     "text": "Today, millions of people have used tools that grew from those humble beginnings.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t3-6.m4a",
+     "roles": [
+      "M",
+      "S",
+      "S",
+      "S",
+      "V",
+      "V",
+      "O",
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 5.36,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t3-6.m4a",
+     "durJa": 7.08,
+     "times": [
+      0.0,
+      0.66,
+      0.98,
+      1.36,
+      1.66,
+      1.9,
+      2.14,
+      2.54,
+      2.92,
+      3.18,
+      3.58,
+      3.74,
+      4.06
+     ]
+    }
+   ],
+   "bands": {
+    "core1000": 78,
+    "core1800": 12,
+    "ngsl": 3,
+    "tsl": 2,
+    "nawl": 1,
+    "beyond": 4
+   },
+   "grammar": [
+    {
+     "i": 1,
+     "focus": "which focused on non-profit technology research",
+     "title": "Non-defining Relative Clause",
+     "note": "A non-defining relative clause starts with 'which' after a comma to give extra details about a noun. Here, it adds background information about the early team."
+    },
+    {
+     "i": 5,
+     "focus": "has transformed",
+     "title": "Present Perfect Tense",
+     "note": "The present perfect (has + past participle) links a past event or change to the present time. It emphasizes that the past change affects the company's current status."
+    }
+   ]
+  },
+  "t4": {
+   "sentences": [
+    {
+     "text": "When OpenAI was founded in December 2015, its original team operated entirely out of a private living room.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t4-0.m4a",
+     "roles": [
+      "M",
+      "S",
+      "V",
+      "V",
+      "M",
+      "M",
+      "M",
+      "S",
+      "S",
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 8.13,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t4-0.m4a",
+     "durJa": 9.92,
+     "times": [
+      0.0,
+      0.26,
+      0.96,
+      1.4,
+      1.68,
+      2.04,
+      2.34,
+      3.88,
+      4.08,
+      4.24,
+      4.86,
+      5.34,
+      6.06,
+      6.64,
+      6.78,
+      6.84,
+      7.12,
+      7.54
+     ]
+    },
+    {
+     "text": "Co-founder Greg Brockman provided the workspace while the non-profit research lab recruited its very first computer scientists.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t4-1.m4a",
+     "roles": [
+      "S",
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "M",
+      "S",
+      "S",
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+     ],
+     "dur": 7.89,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t4-1.m4a",
+     "durJa": 9.56,
+     "times": [
+      0.0,
+      0.42,
+      0.82,
+      1.34,
+      1.84,
+      2.04,
+      2.4,
+      3.22,
+      3.39,
+      3.86,
+      4.22,
+      4.72,
+      5.24,
+      5.62,
+      5.84,
+      6.3,
+      6.7
+     ]
+    },
+    {
+     "text": "The group was established to ensure that artificial intelligence would safely benefit all of humanity rather than private interests.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t4-2.m4a",
+     "roles": [
+      "S",
+      "S",
+      "V",
+      "V",
+      "M",
+      "M",
+      "M",
+      "S",
+      "S",
+      "V",
+      "V",
+      "V",
+      "O",
+      "O",
+      "O",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 8.01,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t4-2.m4a",
+     "durJa": 9.51,
+     "times": [
+      0.0,
+      0.1,
+      0.3,
+      0.5,
+      0.96,
+      1.34,
+      1.64,
+      1.96,
+      2.4,
+      3.26,
+      3.58,
+      3.9,
+      4.42,
+      4.96,
+      5.22,
+      5.68,
+      6.44,
+      6.78,
+      7.06
+     ]
+    },
+    {
+     "text": "By 2019, the researchers had developed GPT-2, a large language model designed to process and generate natural text.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t4-3.m4a",
+     "roles": [
+      "M",
+      "M",
+      "S",
+      "S",
+      "V",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+     ],
+     "dur": 8.56,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t4-3.m4a",
+     "durJa": 10.18,
+     "times": [
+      0.0,
+      0.14,
+      0.8,
+      1.62,
+      1.94,
+      2.34,
+      3.47,
+      4.26,
+      4.36,
+      4.58,
+      5.06,
+      5.46,
+      5.84,
+      6.18,
+      6.52,
+      6.88,
+      7.28,
+      7.68
+     ]
+    },
+    {
+     "text": "However, the system produced writing that was considered almost too convincing for immediate and unrestricted public distribution.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t4-4.m4a",
+     "roles": [
+      "M",
+      "S",
+      "S",
+      "V",
+      "O",
+      "S",
+      "V",
+      "V",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C"
+     ],
+     "dur": 7.53,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t4-4.m4a",
+     "durJa": 8.72,
+     "times": [
+      0.0,
+      0.54,
+      0.66,
+      0.94,
+      1.24,
+      1.76,
+      2.08,
+      2.22,
+      2.62,
+      3.18,
+      3.6,
+      4.1,
+      4.58,
+      5.04,
+      5.42,
+      5.9,
+      6.54
+     ]
+    },
+    {
+     "text": "Company leaders reported that releasing the full model right away posed significant risks regarding potential automated misuse.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t4-5.m4a",
+     "roles": [
+      "S",
+      "S",
+      "V",
+      "M",
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+     ],
+     "dur": 7.65,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t4-5.m4a",
+     "durJa": 8.76,
+     "times": [
+      0.0,
+      0.26,
+      0.6,
+      0.98,
+      1.38,
+      1.68,
+      2.06,
+      2.24,
+      2.58,
+      2.92,
+      3.28,
+      3.88,
+      4.48,
+      5.06,
+      5.52,
+      6.1,
+      6.66
+     ]
+    },
+    {
+     "text": "Consequently, a phased launch strategy was adopted to allow safety evaluation before releasing the complete software package.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t4-6.m4a",
+     "roles": [
+      "M",
+      "S",
+      "S",
+      "S",
+      "S",
+      "V",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 7.25,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t4-6.m4a",
+     "durJa": 8.93,
+     "times": [
+      0.0,
+      0.96,
+      1.04,
+      1.36,
+      1.62,
+      2.24,
+      2.42,
+      2.72,
+      3.14,
+      3.36,
+      3.76,
+      4.32,
+      4.92,
+      5.52,
+      5.72,
+      6.0,
+      6.4
+     ]
+    },
+    {
+     "text": "That early hesitation sparked widespread debate about responsible innovation before the firm eventually became an industry leader.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t4-7.m4a",
+     "roles": [
+      "S",
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "M",
+      "S",
+      "S",
+      "M",
+      "V",
+      "C",
+      "C",
+      "C"
+     ],
+     "dur": 7.86,
+     "voiceJa": "voice/2026-10-21-ai-how-openai-started-in/ja/t4-7.m4a",
+     "durJa": 8.73,
+     "times": [
+      0.0,
+      0.14,
+      0.44,
+      0.86,
+      1.5,
+      1.96,
+      2.6,
+      2.98,
+      3.4,
+      4.1,
+      4.86,
+      5.08,
+      5.34,
+      5.88,
+      6.22,
+      6.5,
+      6.8
+     ]
+    }
+   ],
+   "bands": {
+    "core1000": 73,
+    "core1800": 12,
+    "ngsl": 5,
+    "tsl": 4,
+    "nawl": 2,
+    "beyond": 4
+   },
+   "grammar": [
+    {
+     "i": 0,
+     "focus": "was founded",
+     "title": "Passive Voice in Time Clause",
+     "note": "Passive voice (was + past participle) places focus on the organization receiving the action rather than who founded it. It sets the timeframe for the rest of the sentence."
+    },
+    {
+     "i": 3,
+     "focus": "had developed",
+     "title": "Past Perfect Tense",
+     "note": "The past perfect (had + past participle) indicates that an action was completed before another point in the past ('By 2019'). It clearly establishes chronological sequence."
+    },
+    {
+     "i": 5,
+     "focus": "releasing the full model right away",
+     "title": "Gerund Phrase as Subject",
+     "note": "An -ing verb phrase can act as a noun subject within a subordinate clause. Here, the action of releasing the model serves as the subject of the verb 'posed'."
+    }
+   ]
+  },
+  "t5": {
+   "sentences": [
+    {
+     "text": "Before OpenAI became a multi-billion-dollar juggernaut dominating headlines, it operated as a modest non-profit initiative out of a residential living room.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t5-0.m4a",
+     "roles": [
+      "M",
+      "S",
+      "V",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 10.55,
+     "voiceJa": null,
+     "durJa": null,
+     "times": [
+      0.0,
+      0.36,
+      1.1,
+      1.64,
+      1.76,
+      3.04,
+      3.54,
+      4.14,
+      5.5,
+      5.7,
+      5.98,
+      6.5,
+      6.6,
+      7.07,
+      7.8,
+      8.38,
+      8.88,
+      9.06,
+      9.14,
+      9.44,
+      10.02
+     ]
+    },
+    {
+     "text": "Co-founder Greg Brockman hosted the initial cohort of scientists in December 2015, united by a shared mission to develop safe artificial intelligence.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t5-1.m4a",
+     "roles": [
+      "S",
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 10.25,
+     "voiceJa": null,
+     "durJa": null,
+     "times": [
+      0.0,
+      0.48,
+      0.84,
+      1.4,
+      1.86,
+      2.16,
+      2.42,
+      2.92,
+      3.18,
+      3.52,
+      4.16,
+      4.32,
+      6.02,
+      6.42,
+      6.8,
+      6.94,
+      7.16,
+      7.52,
+      7.92,
+      8.14,
+      8.56,
+      8.98
+     ]
+    },
+    {
+     "text": "Operating on a fraction of tech giants' funding, the lean team set out to challenge established industry rivals through open research collaboration.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t5-2.m4a",
+     "roles": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "S",
+      "S",
+      "S",
+      "V",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 8.88,
+     "voiceJa": null,
+     "durJa": null,
+     "times": [
+      0.0,
+      0.3,
+      0.7,
+      0.8,
+      1.06,
+      1.48,
+      1.68,
+      2.32,
+      3.14,
+      3.2,
+      3.34,
+      3.72,
+      4.1,
+      4.3,
+      4.5,
+      4.82,
+      5.26,
+      6.06,
+      6.54,
+      7.02,
+      7.42,
+      7.88
+     ]
+    },
+    {
+     "text": "That idealistic approach faced its first major test in 2019 with the creation of GPT-2, an advanced language model capable of generating coherent text.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t5-3.m4a",
+     "roles": [
+      "S",
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 11.14,
+     "voiceJa": null,
+     "durJa": null,
+     "times": [
+      0.0,
+      0.08,
+      0.82,
+      1.28,
+      1.72,
+      2.08,
+      2.4,
+      2.7,
+      3.14,
+      3.52,
+      4.06,
+      4.94,
+      5.04,
+      5.42,
+      5.95,
+      7.18,
+      7.42,
+      7.62,
+      8.1,
+      8.54,
+      8.9,
+      9.3,
+      9.74,
+      10.1
+     ]
+    },
+    {
+     "text": "To the team's surprise, the software generated prose so persuasively human that executives hesitated to release the complete software code immediately.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t5-4.m4a",
+     "roles": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "S",
+      "S",
+      "V",
+      "O",
+      "M",
+      "M",
+      "M",
+      "M",
+      "S",
+      "V",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 9.12,
+     "voiceJa": null,
+     "durJa": null,
+     "times": [
+      0.0,
+      0.08,
+      0.14,
+      0.52,
+      1.48,
+      1.58,
+      1.8,
+      2.54,
+      2.8,
+      3.32,
+      4.12,
+      4.44,
+      5.08,
+      5.46,
+      6.04,
+      6.5,
+      6.78,
+      7.08,
+      7.36,
+      7.74,
+      8.18
+     ]
+    },
+    {
+     "text": "Fearing potential misuse in automated misinformation campaigns, OpenAI made the unprecedented decision to withhold the full model during its initial announcement.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t5-5.m4a",
+     "roles": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 9.78,
+     "voiceJa": null,
+     "durJa": null,
+     "times": [
+      0.0,
+      0.28,
+      0.64,
+      1.12,
+      1.68,
+      2.08,
+      2.66,
+      4.28,
+      4.68,
+      5.16,
+      5.28,
+      5.76,
+      6.48,
+      6.88,
+      7.1,
+      7.6,
+      7.72,
+      8.08,
+      8.46,
+      8.64,
+      8.98
+     ]
+    },
+    {
+     "text": "The move ignited intense discussion across the tech sector, with critics questioning whether the danger was genuine or clever marketing.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t5-6.m4a",
+     "roles": [
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+     ],
+     "dur": 7.42,
+     "voiceJa": null,
+     "durJa": null,
+     "times": [
+      0.0,
+      0.04,
+      0.22,
+      0.66,
+      1.14,
+      1.82,
+      2.26,
+      2.46,
+      2.6,
+      3.46,
+      3.62,
+      3.86,
+      4.5,
+      4.84,
+      5.0,
+      5.24,
+      5.5,
+      5.86,
+      6.4,
+      6.64
+     ]
+    },
+    {
+     "text": "Looking back, that theatrical moment of caution marked a pivotal transition from informal startup culture to high-stakes global technology pioneer.",
+     "voice": "voice/2026-10-21-ai-how-openai-started-in/t5-7.m4a",
+     "roles": [
+      "M",
+      "M",
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "V",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+     ],
+     "dur": 9.78,
+     "voiceJa": null,
+     "durJa": null,
+     "times": [
+      0.0,
+      0.16,
+      0.86,
+      1.06,
+      1.32,
+      1.96,
+      2.2,
+      2.44,
+      3.06,
+      3.3,
+      3.56,
+      4.28,
+      4.92,
+      5.38,
+      5.94,
+      6.32,
+      6.55,
+      7.46,
+      7.9,
+      8.62
+     ]
+    }
+   ],
+   "bands": {
+    "core1000": 61,
+    "core1800": 11,
+    "ngsl": 9,
+    "tsl": 5,
+    "nawl": 4,
+    "beyond": 10
+   },
+   "grammar": [
+    {
+     "i": 2,
+     "focus": "Operating on a fraction of tech giants' funding",
+     "title": "Fronted Participle Clause",
+     "note": "A present participle phrase placed at the beginning of a sentence modifies the subject that follows. It provides background context about the conditions under which the team worked."
+    },
+    {
+     "i": 5,
+     "focus": "Fearing potential misuse in automated misinformation campaigns",
+     "title": "Participial Phrase of Reason",
+     "note": "An -ing participial phrase at the start of a sentence can function like an adverbial clause showing cause. It explains why OpenAI decided to withhold the model."
+    },
+    {
+     "i": 6,
+     "focus": "with critics questioning whether the danger was genuine or clever marketing",
+     "title": "With Absolute Construction",
+     "note": "The preposition 'with' followed by a noun ('critics') and a participle ('questioning') introduces accompanying circumstance. It describes an action happening alongside the main event."
+    }
+   ]
+  }
+ },
+ "glossary": [
+  {
+   "word": "cautious",
+   "lemma": "cautious",
+   "pos": "adjective",
+   "ipa": "/ˈkɔː.ʃəs/",
+   "definition": "careful to avoid potential problems or dangers",
+   "tiers": [
+    "t2",
+    "t3"
+   ]
+  },
+  {
+   "word": "generates",
+   "lemma": "generate",
+   "pos": "verb",
+   "ipa": "/ˈdʒɛn.ə.reɪts/",
+   "definition": "produces or creates something",
+   "tiers": [
+    "t3"
+   ]
+  },
+  {
+   "word": "hesitation",
+   "lemma": "hesitation",
+   "pos": "noun",
+   "ipa": "/ˌhɛz.əˈteɪ.ʃən/",
+   "definition": "a delay due to uncertainty or worry",
+   "tiers": [
+    "t4"
+   ]
+  },
+  {
+   "word": "unrestricted",
+   "lemma": "unrestricted",
+   "pos": "adjective",
+   "ipa": "/ˌʌn.rɪˈstrɪk.tɪd/",
+   "definition": "not limited or restricted by rules or controls",
+   "tiers": [
+    "t4"
+   ]
+  },
+  {
+   "word": "coherent",
+   "lemma": "coherent",
+   "pos": "adjective",
+   "ipa": "/koʊˈhɪr.ənt/",
+   "definition": "clear, logical, and easy to understand",
+   "tiers": [
+    "t5"
+   ]
+  },
+  {
+   "word": "unprecedented",
+   "lemma": "unprecedented",
+   "pos": "adjective",
+   "ipa": "/ʌnˈprɛs.ə.dɛn.tɪd/",
+   "definition": "never done or known before",
+   "tiers": [
+    "t5"
+   ]
+  },
+  {
+   "word": "pivotal",
+   "lemma": "pivotal",
+   "pos": "adjective",
+   "ipa": "/ˈpɪv.ə.təl/",
+   "definition": "of crucial importance in relation to development",
+   "tiers": [
+    "t5"
+   ]
+  }
+ ],
+ "words": {
+  "openai": {
+   "l": "OpenAI",
+   "p": "name",
+   "i": "/oʊpən.eɪ.aɪ/",
+   "d": "an artificial intelligence research company",
+   "b": "beyond",
+   "img": null
+  },
+  "started": {
+   "l": "start",
+   "p": "verb",
+   "i": "/stɑːrtɪd/",
+   "d": "began operating or existing",
+   "b": "core1000",
+   "img": "art/words/start.jpg"
+  },
+  "in": {
+   "l": "in",
+   "p": "prep",
+   "i": "/ɪn/",
+   "d": "located inside or within",
+   "b": "core1000",
+   "img": null
+  },
+  "a": {
+   "l": "a",
+   "p": "det",
+   "i": "/ə/",
+   "d": "one unspecified thing",
+   "b": "core1000",
+   "img": null
+  },
+  "small": {
+   "l": "small",
+   "p": "adj",
+   "i": "/smɔːl/",
+   "d": "little in size",
+   "b": "core1000",
+   "img": "art/words/small.jpg"
+  },
+  "living": {
+   "l": "living",
+   "p": "adj",
+   "i": "/lɪvɪŋ/",
+   "d": "used for relaxing and daily activities",
+   "b": "core1000",
+   "img": null
+  },
+  "room": {
+   "l": "room",
+   "p": "noun",
+   "i": "/ruːm/",
+   "d": "a part of a building enclosed by walls",
+   "b": "core1000",
+   "img": "art/words/room.jpg"
+  },
+  "greg": {
+   "l": "Greg",
+   "p": "name",
+   "i": "/ɡrɛɡ/",
+   "d": "a male given name",
+   "b": "beyond",
+   "img": null
+  },
+  "brockman": {
+   "l": "Brockman",
+   "p": "name",
+   "i": "/brɑːkmən/",
+   "d": "a surname",
+   "b": "beyond",
+   "img": null
+  },
+  "worked": {
+   "l": "work",
+   "p": "verb",
+   "i": "/wɜːrkt/",
+   "d": "performed job duties or tasks",
+   "b": "core1000",
+   "img": null
+  },
+  "from": {
+   "l": "from",
+   "p": "prep",
+   "i": "/frʌm/",
+   "d": "out of a specific location",
+   "b": "core1000",
+   "img": null
+  },
+  "his": {
+   "l": "his",
+   "p": "pron",
+   "i": "/hɪz/",
+   "d": "belonging to a male person",
+   "b": "core1000",
+   "img": null
+  },
+  "own": {
+   "l": "own",
+   "p": "adj",
+   "i": "/oʊn/",
+   "d": "belonging to oneself",
+   "b": "core1000",
+   "img": null
+  },
+  "home": {
+   "l": "home",
+   "p": "noun",
+   "i": "/hoʊm/",
+   "d": "the place where someone lives",
+   "b": "core1000",
+   "img": "art/words/home.jpg"
+  },
+  "with": {
+   "l": "with",
+   "p": "prep",
+   "i": "/wɪð/",
+   "d": "accompanied by someone",
+   "b": "core1000",
+   "img": null
+  },
+  "friends": {
+   "l": "friend",
+   "p": "noun",
+   "i": "/frɛndz/",
+   "d": "people who are close companions",
+   "b": "core1000",
+   "img": "art/words/friend.jpg"
+  },
+  "the": {
+   "l": "the",
+   "p": "det",
+   "i": "/ðə/",
+   "d": "used to specify a particular thing",
+   "b": "core1000",
+   "img": null
+  },
+  "group": {
+   "l": "group",
+   "p": "noun",
+   "i": "/ɡruːp/",
+   "d": "a number of people together",
+   "b": "core1000",
+   "img": null
+  },
+  "created": {
+   "l": "create",
+   "p": "verb",
+   "i": "/kriːˈeɪtɪd/",
+   "d": "made or produced something new",
+   "b": "core1000",
+   "img": null
+  },
+  "smart": {
+   "l": "smart",
+   "p": "adj",
+   "i": "/smɑːrt/",
+   "d": "showing high intelligence or capabilities",
+   "b": "ngsl",
+   "img": null
+  },
+  "computer": {
+   "l": "computer",
+   "p": "noun",
+   "i": "/kəmˈpjuːtər/",
+   "d": "an electronic machine for processing data",
+   "b": "core1000",
+   "img": "art/words/computer.jpg"
+  },
+  "program": {
+   "l": "program",
+   "p": "noun",
+   "i": "/ˈproʊɡræm/",
+   "d": "a set of instructions for a computer",
+   "b": "core1000",
+   "img": null
+  },
+  "named": {
+   "l": "name",
+   "p": "verb",
+   "i": "/neɪmd/",
+   "d": "given a particular title or name",
+   "b": "core1000",
+   "img": null
+  },
+  "gpt": {
+   "l": "GPT",
+   "p": "name",
+   "i": "/dʒiː.piːˈtiː/",
+   "d": "an AI language model series",
+   "b": "beyond",
+   "img": null
+  },
+  "it": {
+   "l": "it",
+   "p": "pron",
+   "i": "/ɪt/",
+   "d": "the program mentioned earlier",
+   "b": "core1000",
+   "img": null
+  },
+  "wrote": {
+   "l": "write",
+   "p": "verb",
+   "i": "/roʊt/",
+   "d": "produced text in written form",
+   "b": "core1000",
+   "img": "art/words/write.jpg"
+  },
+  "sentences": {
+   "l": "sentence",
+   "p": "noun",
+   "i": "/ˈsɛntənsəz/",
+   "d": "groups of words expressing complete thoughts",
+   "b": "core1800",
+   "img": null
+  },
+  "like": {
+   "l": "like",
+   "p": "prep",
+   "i": "/laɪk/",
+   "d": "in a manner similar to",
+   "b": "core1000",
+   "img": null
+  },
+  "real": {
+   "l": "real",
+   "p": "adj",
+   "i": "/riːl/",
+   "d": "actual and true, not artificial",
+   "b": "core1000",
+   "img": null
+  },
+  "human": {
+   "l": "human",
+   "p": "adj",
+   "i": "/ˈhjuːmən/",
+   "d": "relating to or characteristic of people",
+   "b": "core1000",
+   "img": null
+  },
+  "person": {
+   "l": "person",
+   "p": "noun",
+   "i": "/ˈpɜːrsən/",
+   "d": "an individual human being",
+   "b": "core1000",
+   "img": null
+  },
+  "creators": {
+   "l": "creator",
+   "p": "noun",
+   "i": "/kriːˈeɪtərz/",
+   "d": "people who made something",
+   "b": "beyond",
+   "img": null
+  },
+  "feared": {
+   "l": "fear",
+   "p": "verb",
+   "i": "/fɪrd/",
+   "d": "worried about possible danger or harm",
+   "b": "core1000",
+   "img": null
+  },
+  "was": {
+   "l": "be",
+   "p": "verb",
+   "i": "/wʌz/",
+   "d": "existed or had a specified quality",
+   "b": "core1000",
+   "img": null
+  },
+  "too": {
+   "l": "too",
+   "p": "adv",
+   "i": "/tuː/",
+   "d": "excessively or to a high degree",
+   "b": "core1000",
+   "img": null
+  },
+  "good": {
+   "l": "good",
+   "p": "adj",
+   "i": "/ɡʊd/",
+   "d": "high in quality or effectiveness",
+   "b": "core1000",
+   "img": null
+  },
+  "to": {
+   "l": "to",
+   "p": "prep",
+   "i": "/tuː/",
+   "d": "used before a verb expressing action",
+   "b": "core1000",
+   "img": null
+  },
+  "release": {
+   "l": "release",
+   "p": "verb",
+   "i": "/rɪˈliːs/",
+   "d": "make available to the public",
+   "b": "core1000",
+   "img": null
+  },
+  "famous": {
+   "l": "famous",
+   "p": "adj",
+   "i": "/ˈfeɪməs/",
+   "d": "known by many people",
+   "b": "core1800",
+   "img": null
+  },
+  "technology": {
+   "l": "technology",
+   "p": "noun",
+   "i": "/tɛkˈnɑːlədʒi/",
+   "d": "scientific knowledge applied for practical purposes",
+   "b": "core1000",
+   "img": null
+  },
+  "plain": {
+   "l": "plain",
+   "p": "adj",
+   "i": "/pleɪn/",
+   "d": "simple and not fancy",
+   "b": "ngsl",
+   "img": null
+  },
+  "and": {
+   "l": "and",
+   "p": "conj",
+   "i": "/ænd/",
+   "d": "used to connect words or phrases",
+   "b": "core1000",
+   "img": null
+  },
+  "team": {
+   "l": "team",
+   "p": "noun",
+   "i": "/tiːm/",
+   "d": "a group of people working together",
+   "b": "core1000",
+   "img": "art/words/team.jpg"
+  },
+  "hard": {
+   "l": "hard",
+   "p": "adv",
+   "i": "/hɑːrd/",
+   "d": "with great energy and effort",
+   "b": "core1000",
+   "img": null
+  },
+  "because": {
+   "l": "because",
+   "p": "conj",
+   "i": "/bɪˈkəz/",
+   "d": "for the reason that",
+   "b": "core1000",
+   "img": null
+  },
+  "they": {
+   "l": "they",
+   "p": "pron",
+   "i": "/ðeɪ/",
+   "d": "the people previously mentioned",
+   "b": "core1000",
+   "img": null
+  },
+  "loved": {
+   "l": "love",
+   "p": "verb",
+   "i": "/lʌvd/",
+   "d": "enjoyed or cared about deeply",
+   "b": "core1000",
+   "img": null
+  },
+  "big": {
+   "l": "big",
+   "p": "adj",
+   "i": "/bɪɡ/",
+   "d": "important or large in scale",
+   "b": "core1000",
+   "img": "art/words/big.jpg"
+  },
+  "ideas": {
+   "l": "idea",
+   "p": "noun",
+   "i": "/aɪˈdiːəz/",
+   "d": "thoughts, plans, or concepts",
+   "b": "core1000",
+   "img": null
+  },
+  "built": {
+   "l": "build",
+   "p": "verb",
+   "i": "/bɪlt/",
+   "d": "created or constructed something",
+   "b": "core1000",
+   "img": "art/words/build.jpg"
+  },
+  "language": {
+   "l": "language",
+   "p": "noun",
+   "i": "/ˈlæŋɡwɪdʒ/",
+   "d": "a system of communication",
+   "b": "core1000",
+   "img": null
+  },
+  "system": {
+   "l": "system",
+   "p": "noun",
+   "i": "/ˈsɪstəm/",
+   "d": "a complex computer program or network",
+   "b": "core1000",
+   "img": null
+  },
+  "called": {
+   "l": "call",
+   "p": "verb",
+   "i": "/kɔːld/",
+   "d": "named or referred to as",
+   "b": "core1000",
+   "img": "art/words/call.jpg"
+  },
+  "four": {
+   "l": "four",
+   "p": "num",
+   "i": "/fɔːr/",
+   "d": "the number 4",
+   "b": "beyond",
+   "img": null
+  },
+  "years": {
+   "l": "year",
+   "p": "noun",
+   "i": "/jɪrz/",
+   "d": "periods of twelve months",
+   "b": "core1000",
+   "img": null
+  },
+  "later": {
+   "l": "later",
+   "p": "adv",
+   "i": "/ˈleɪtər/",
+   "d": "at a time in the future",
+   "b": "core1000",
+   "img": null
+  },
+  "text": {
+   "l": "text",
+   "p": "noun",
+   "i": "/tɛkst/",
+   "d": "written words",
+   "b": "core1800",
+   "img": "art/words/text.jpg"
+  },
+  "so": {
+   "l": "so",
+   "p": "adv",
+   "i": "/soʊ/",
+   "d": "to such a high degree",
+   "b": "core1000",
+   "img": null
+  },
+  "well": {
+   "l": "well",
+   "p": "adv",
+   "i": "/wɛl/",
+   "d": "in a good or effective manner",
+   "b": "core1000",
+   "img": null
+  },
+  "that": {
+   "l": "that",
+   "p": "conj",
+   "i": "/ðæt/",
+   "d": "introducing a clause expressing result",
+   "b": "core1000",
+   "img": null
+  },
+  "surprised": {
+   "l": "surprise",
+   "p": "verb",
+   "i": "/sərˈpraɪzd/",
+   "d": "astonished or amazed someone",
+   "b": "core1000",
+   "img": null
+  },
+  "whole": {
+   "l": "whole",
+   "p": "adj",
+   "i": "/hoʊl/",
+   "d": "entire, complete",
+   "b": "core1000",
+   "img": null
+  },
+  "worried": {
+   "l": "worry",
+   "p": "verb",
+   "i": "/ˈwɜːrid/",
+   "d": "felt anxious or concerned",
+   "b": "core1000",
+   "img": null
+  },
+  "about": {
+   "l": "about",
+   "p": "prep",
+   "i": "/əˈbaʊt/",
+   "d": "concerning or regarding",
+   "b": "core1000",
+   "img": null
+  },
+  "bad": {
+   "l": "bad",
+   "p": "adj",
+   "i": "/bæd/",
+   "d": "harmful or undesirable",
+   "b": "core1000",
+   "img": null
+  },
+  "uses": {
+   "l": "use",
+   "p": "noun",
+   "i": "/ˈjuːsəz/",
+   "d": "ways of using something",
+   "b": "core1000",
+   "img": null
+  },
+  "did": {
+   "l": "do",
+   "p": "verb",
+   "i": "/dɪd/",
+   "d": "used with 'not' to form negative",
+   "b": "core1000",
+   "img": null
+  },
+  "not": {
+   "l": "not",
+   "p": "adv",
+   "i": "/nɑːt/",
+   "d": "used to form a negative statement",
+   "b": "core1000",
+   "img": null
+  },
+  "fully": {
+   "l": "fully",
+   "p": "adv",
+   "i": "/ˈfʊli/",
+   "d": "completely or entirely",
+   "b": "core1800",
+   "img": null
+  },
+  "future": {
+   "l": "future",
+   "p": "adj",
+   "i": "/ˈfjuːtʃər/",
+   "d": "belonging to a time to come",
+   "b": "core1000",
+   "img": null
+  },
+  "researchers": {
+   "l": "researcher",
+   "p": "noun",
+   "i": "/ˈriːsɜːrtʃərz/",
+   "d": "people who study a subject carefully",
+   "b": "core1800",
+   "img": null
+  },
+  "will": {
+   "l": "will",
+   "p": "verb",
+   "i": "/wɪl/",
+   "d": "expressing future time",
+   "b": "core1000",
+   "img": null
+  },
+  "learn": {
+   "l": "learn",
+   "p": "verb",
+   "i": "/lɜːrn/",
+   "d": "gain knowledge or understanding",
+   "b": "core1000",
+   "img": "art/words/learn.jpg"
+  },
+  "this": {
+   "l": "this",
+   "p": "det",
+   "i": "/ðɪs/",
+   "d": "the specific thing mentioned",
+   "b": "core1000",
+   "img": null
+  },
+  "unusual": {
+   "l": "unusual",
+   "p": "adj",
+   "i": "/ʌnˈjuːʒuəl/",
+   "d": "not common or typical",
+   "b": "ngsl",
+   "img": null
+  },
+  "cautious": {
+   "l": "cautious",
+   "p": "adj",
+   "i": "/ˈkɔːʃəs/",
+   "d": "careful to avoid potential problems",
+   "b": "tsl",
+   "img": null
+  },
+  "early": {
+   "l": "early",
+   "p": "adj",
+   "i": "/ˈɜːrli/",
+   "d": "belonging to the beginning of a period",
+   "b": "core1000",
+   "img": null
+  },
+  "decision": {
+   "l": "decision",
+   "p": "noun",
+   "i": "/dɪˈsɪʒən/",
+   "d": "a choice made after thinking",
+   "b": "core1000",
+   "img": null
+  },
+  "long": {
+   "l": "long",
+   "p": "adv",
+   "i": "/lɔːŋ/",
+   "d": "by a substantial amount of time",
+   "b": "core1000",
+   "img": "art/words/long.jpg"
+  },
+  "before": {
+   "l": "before",
+   "p": "prep",
+   "i": "/bɪˈfɔːr/",
+   "d": "earlier than a specific time",
+   "b": "core1000",
+   "img": null
+  },
+  "became": {
+   "l": "become",
+   "p": "verb",
+   "i": "/bɪˈkeɪm/",
+   "d": "turned into or grew to be",
+   "b": "core1000",
+   "img": null
+  },
+  "began": {
+   "l": "begin",
+   "p": "verb",
+   "i": "/bɪˈɡæn/",
+   "d": "started or came into existence",
+   "b": "core1000",
+   "img": null
+  },
+  "inside": {
+   "l": "inside",
+   "p": "prep",
+   "i": "/ɪnˈsaɪd/",
+   "d": "within the inner part of a space",
+   "b": "core1000",
+   "img": null
+  },
+  "simple": {
+   "l": "simple",
+   "p": "adj",
+   "i": "/ˈsɪmpəl/",
+   "d": "basic or plain, not complex",
+   "b": "core1000",
+   "img": null
+  },
+  "co-founder": {
+   "l": "co-founder",
+   "p": "noun",
+   "i": "/ˈkoʊˌfaʊndər/",
+   "d": "a person who starts an organization with others",
+   "b": "beyond",
+   "img": null
+  },
+  "hosted": {
+   "l": "host",
+   "p": "verb",
+   "i": "/ˈhoʊstɪd/",
+   "d": "provided space and resources for a group",
+   "b": "core1800",
+   "img": null
+  },
+  "which": {
+   "l": "which",
+   "p": "pron",
+   "i": "/wɪtʃ/",
+   "d": "referring to the thing just mentioned",
+   "b": "core1000",
+   "img": null
+  },
+  "focused": {
+   "l": "focus",
+   "p": "verb",
+   "i": "/ˈfoʊkəst/",
+   "d": "concentrated attention or effort on something",
+   "b": "core1000",
+   "img": null
+  },
+  "on": {
+   "l": "on",
+   "p": "prep",
+   "i": "/ɑːn/",
+   "d": "concerning or focused toward",
+   "b": "core1000",
+   "img": null
+  },
+  "non-profit": {
+   "l": "non-profit",
+   "p": "adj",
+   "i": "/nɑːnˈprɑːfɪt/",
+   "d": "not operating to make money",
+   "b": "beyond",
+   "img": null
+  },
+  "research": {
+   "l": "research",
+   "p": "noun",
+   "i": "/ˈriːsɜːrtʃ/",
+   "d": "systematic study to discover facts",
+   "b": "core1000",
+   "img": null
+  },
+  "organization": {
+   "l": "organization",
+   "p": "noun",
+   "i": "/ˌɔːrɡənəˈzeɪʃən/",
+   "d": "an organized group of people with a purpose",
+   "b": "core1000",
+   "img": null
+  },
+  "model": {
+   "l": "model",
+   "p": "noun",
+   "i": "/ˈmɑːdəl/",
+   "d": "a computer program designed to mimic processes",
+   "b": "core1000",
+   "img": null
+  },
+  "generates": {
+   "l": "generate",
+   "p": "verb",
+   "i": "/ˈdʒɛnəˌreɪts/",
+   "d": "produces or creates",
+   "b": "core1800",
+   "img": null
+  },
+  "humanlike": {
+   "l": "humanlike",
+   "p": "adj",
+   "i": "/ˈhjuːmənˌlaɪk/",
+   "d": "resembling or characteristic of a human",
+   "b": "beyond",
+   "img": null
+  },
+  "software": {
+   "l": "software",
+   "p": "noun",
+   "i": "/ˈsɔːftwɛr/",
+   "d": "programs used by a computer",
+   "b": "core1800",
+   "img": null
+  },
+  "performed": {
+   "l": "perform",
+   "p": "verb",
+   "i": "/pərˈfɔːrmd/",
+   "d": "functioned or operated in a certain way",
+   "b": "core1000",
+   "img": null
+  },
+  "effectively": {
+   "l": "effectively",
+   "p": "adv",
+   "i": "/ɪˈfɛktɪvli/",
+   "d": "in a way that produces desired results",
+   "b": "ngsl",
+   "img": null
+  },
+  "shocked": {
+   "l": "shock",
+   "p": "verb",
+   "i": "/ʃɑːkt/",
+   "d": "surprised or greatly astonished",
+   "b": "core1800",
+   "img": null
+  },
+  "who": {
+   "l": "who",
+   "p": "pron",
+   "i": "/huː/",
+   "d": "referring to the people mentioned",
+   "b": "core1000",
+   "img": null
+  },
+  "powerful": {
+   "l": "powerful",
+   "p": "adj",
+   "i": "/ˈpaʊərfəl/",
+   "d": "having great ability or impact",
+   "b": "core1800",
+   "img": null
+  },
+  "delayed": {
+   "l": "delay",
+   "p": "verb",
+   "i": "/dɪˈleɪd/",
+   "d": "postponed or put off until later",
+   "b": "core1800",
+   "img": null
+  },
+  "its": {
+   "l": "its",
+   "p": "pron",
+   "i": "/ɪts/",
+   "d": "belonging to the program",
+   "b": "core1000",
+   "img": null
+  },
+  "full": {
+   "l": "full",
+   "p": "adj",
+   "i": "/fʊl/",
+   "d": "complete and not limited",
+   "b": "core1000",
+   "img": "art/words/full.jpg"
+  },
+  "public": {
+   "l": "public",
+   "p": "adj",
+   "i": "/ˈpʌblɪk/",
+   "d": "available to everyone",
+   "b": "core1000",
+   "img": null
+  },
+  "since": {
+   "l": "since",
+   "p": "prep",
+   "i": "/sɪns/",
+   "d": "from the time of a past event",
+   "b": "core1000",
+   "img": null
+  },
+  "moment": {
+   "l": "moment",
+   "p": "noun",
+   "i": "/ˈmoʊmənt/",
+   "d": "a particular point in time",
+   "b": "core1000",
+   "img": null
+  },
+  "company": {
+   "l": "company",
+   "p": "noun",
+   "i": "/ˈkʌmpəni/",
+   "d": "a business or organization",
+   "b": "core1000",
+   "img": null
+  },
+  "has": {
+   "l": "have",
+   "p": "verb",
+   "i": "/hæz/",
+   "d": "auxiliary verb used with past participle",
+   "b": "core1000",
+   "img": null
+  },
+  "transformed": {
+   "l": "transform",
+   "p": "verb",
+   "i": "/trænsˈfɔːrmd/",
+   "d": "changed completely in form or nature",
+   "b": "ngsl",
+   "img": null
+  },
+  "into": {
+   "l": "into",
+   "p": "prep",
+   "i": "/ˈɪntuː/",
+   "d": "changing to become something else",
+   "b": "core1000",
+   "img": null
+  },
+  "global": {
+   "l": "global",
+   "p": "adj",
+   "i": "/ˈɡloʊbəl/",
+   "d": "relating to the whole world",
+   "b": "core1800",
+   "img": null
+  },
+  "giant": {
+   "l": "giant",
+   "p": "noun",
+   "i": "/ˈdʒaɪənt/",
+   "d": "a very large and powerful organization",
+   "b": "ngsl",
+   "img": null
+  },
+  "today": {
+   "l": "today",
+   "p": "adv",
+   "i": "/təˈdeɪ/",
+   "d": "at the present time",
+   "b": "core1000",
+   "img": null
+  },
+  "millions": {
+   "l": "million",
+   "p": "noun",
+   "i": "/ˈmɪljənz/",
+   "d": "very large numbers of people or things",
+   "b": "beyond",
+   "img": null
+  },
+  "of": {
+   "l": "of",
+   "p": "prep",
+   "i": "/ʌv/",
+   "d": "belonging to or relating to",
+   "b": "core1000",
+   "img": null
+  },
+  "people": {
+   "l": "person",
+   "p": "noun",
+   "i": "/ˈpiːpəl/",
+   "d": "human beings in general",
+   "b": "core1000",
+   "img": null
+  },
+  "have": {
+   "l": "have",
+   "p": "verb",
+   "i": "/hæv/",
+   "d": "auxiliary verb forming present perfect tense",
+   "b": "core1000",
+   "img": null
+  },
+  "used": {
+   "l": "use",
+   "p": "verb",
+   "i": "/juːzd/",
+   "d": "employed something for a purpose",
+   "b": "core1000",
+   "img": null
+  },
+  "tools": {
+   "l": "tool",
+   "p": "noun",
+   "i": "/tuːlz/",
+   "d": "instruments or software used to perform tasks",
+   "b": "core1800",
+   "img": "art/words/tool.jpg"
+  },
+  "grew": {
+   "l": "grow",
+   "p": "verb",
+   "i": "/ɡruː/",
+   "d": "developed or originated from a specific starting point",
+   "b": "core1000",
+   "img": "art/words/grow.jpg"
+  },
+  "those": {
+   "l": "that",
+   "p": "det",
+   "i": "/ðoʊz/",
+   "d": "referring to specific things previously mentioned",
+   "b": "core1000",
+   "img": null
+  },
+  "humble": {
+   "l": "humble",
+   "p": "adj",
+   "i": "/ˈhʌm.bəl/",
+   "d": "modest or simple in position or scale",
+   "b": "beyond",
+   "img": null
+  },
+  "beginnings": {
+   "l": "beginning",
+   "p": "noun",
+   "i": "/bɪˈɡɪn.ɪŋz/",
+   "d": "the starting points or early stages of something",
+   "b": "core1000",
+   "img": null
+  },
+  "when": {
+   "l": "when",
+   "p": "conj",
+   "i": "/wɛn/",
+   "d": "at or during the time that",
+   "b": "core1000",
+   "img": null
+  },
+  "founded": {
+   "l": "found",
+   "p": "verb",
+   "i": "/ˈfaʊn.dɪd/",
+   "d": "established or created an organization",
+   "b": "ngsl",
+   "img": null
+  },
+  "december": {
+   "l": "December",
+   "p": "name",
+   "i": "/dɪˈsɛm.bɚ/",
+   "d": "the twelfth month of the year",
+   "b": "beyond",
+   "img": null
+  },
+  "original": {
+   "l": "original",
+   "p": "adj",
+   "i": "/əˈrɪdʒ.ə.nəl/",
+   "d": "existing from the beginning; first",
+   "b": "core1000",
+   "img": null
+  },
+  "operated": {
+   "l": "operate",
+   "p": "verb",
+   "i": "/ˈɑː.pə.reɪ.tɪd/",
+   "d": "conducted activities or worked from a location",
+   "b": "core1000",
+   "img": null
+  },
+  "entirely": {
+   "l": "entirely",
+   "p": "adv",
+   "i": "/ɪnˈtaɪɚ.li/",
+   "d": "completely and solely",
+   "b": "core1800",
+   "img": null
+  },
+  "out": {
+   "l": "out",
+   "p": "prep",
+   "i": "/aʊt/",
+   "d": "from a specific place or base of operations",
+   "b": "core1000",
+   "img": null
+  },
+  "private": {
+   "l": "private",
+   "p": "adj",
+   "i": "/ˈpraɪ.vət/",
+   "d": "intended for or belonging to one particular person",
+   "b": "core1000",
+   "img": null
+  },
+  "provided": {
+   "l": "provide",
+   "p": "verb",
+   "i": "/prəˈvaɪ.dɪd/",
+   "d": "supplied or made something available for use",
+   "b": "core1000",
+   "img": null
+  },
+  "workspace": {
+   "l": "workspace",
+   "p": "noun",
+   "i": "/ˈwɝːk.speɪs/",
+   "d": "a space used or allocated for working",
+   "b": "beyond",
+   "img": null
+  },
+  "while": {
+   "l": "while",
+   "p": "conj",
+   "i": "/waɪl/",
+   "d": "during the time that",
+   "b": "core1000",
+   "img": null
+  },
+  "lab": {
+   "l": "lab",
+   "p": "noun",
+   "i": "/læb/",
+   "d": "a place or organization for scientific research",
+   "b": "tsl",
+   "img": null
+  },
+  "recruited": {
+   "l": "recruit",
+   "p": "verb",
+   "i": "/rɪˈkruː.tɪd/",
+   "d": "enlisted or hired someone to join an organization",
+   "b": "ngsl",
+   "img": null
+  },
+  "very": {
+   "l": "very",
+   "p": "adv",
+   "i": "/ˈvɛr.i/",
+   "d": "used to emphasize exactness or being the first",
+   "b": "core1000",
+   "img": null
+  },
+  "first": {
+   "l": "first",
+   "p": "adj",
+   "i": "/fɝːst/",
+   "d": "coming before all others in order or time",
+   "b": "core1000",
+   "img": null
+  },
+  "scientists": {
+   "l": "scientist",
+   "p": "noun",
+   "i": "/ˈsaɪ.ən.tɪsts/",
+   "d": "people who study or work in science",
+   "b": "core1800",
+   "img": "art/words/scientist.jpg"
+  },
+  "established": {
+   "l": "establish",
+   "p": "verb",
+   "i": "/ɪˈstæb.lɪʃt/",
+   "d": "set up or created on a firm basis",
+   "b": "core1000",
+   "img": null
+  },
+  "ensure": {
+   "l": "ensure",
+   "p": "verb",
+   "i": "/ɪnˈʃʊr/",
+   "d": "to make sure or certain that something happens",
+   "b": "core1800",
+   "img": null
+  },
+  "artificial": {
+   "l": "artificial",
+   "p": "adj",
+   "i": "/ˌɑːr.t̬əˈfɪʃ.əl/",
+   "d": "made by humans rather than occurring naturally",
+   "b": "nawl",
+   "img": null
+  },
+  "intelligence": {
+   "l": "intelligence",
+   "p": "noun",
+   "i": "/ɪnˈtɛl.ə.dʒəns/",
+   "d": "ability to learn, understand, and apply knowledge",
+   "b": "core1800",
+   "img": null
+  },
+  "would": {
+   "l": "would",
+   "p": "verb",
+   "i": "/wʊd/",
+   "d": "used to express future intention from a past perspective",
+   "b": "core1000",
+   "img": null
+  },
+  "safely": {
+   "l": "safely",
+   "p": "adv",
+   "i": "/ˈseɪf.li/",
+   "d": "in a way that causes no harm or danger",
+   "b": "tsl",
+   "img": null
+  },
+  "benefit": {
+   "l": "benefit",
+   "p": "verb",
+   "i": "/ˈbɛn.ə.fɪt/",
+   "d": "to bring help or an advantage to someone",
+   "b": "core1000",
+   "img": null
+  },
+  "all": {
+   "l": "all",
+   "p": "det",
+   "i": "/ɑːl/",
+   "d": "the whole quantity or extent of",
+   "b": "core1000",
+   "img": null
+  },
+  "humanity": {
+   "l": "humanity",
+   "p": "noun",
+   "i": "/hjuːˈmæn.ə.ti/",
+   "d": "all human beings collectively",
+   "b": "beyond",
+   "img": null
+  },
+  "rather": {
+   "l": "rather",
+   "p": "adv",
+   "i": "/ˈræð.ɚ/",
+   "d": "instead of; in contrast to",
+   "b": "core1000",
+   "img": null
+  },
+  "than": {
+   "l": "than",
+   "p": "conj",
+   "i": "/ðæn/",
+   "d": "used to introduce a second element in a contrast",
+   "b": "core1000",
+   "img": null
+  },
+  "interests": {
+   "l": "interest",
+   "p": "noun",
+   "i": "/ˈɪn.trɪsts/",
+   "d": "advantages, benefits, or financial stakes",
+   "b": "core1000",
+   "img": null
+  },
+  "by": {
+   "l": "by",
+   "p": "prep",
+   "i": "/baɪ/",
+   "d": "not later than a specific point in time",
+   "b": "core1000",
+   "img": null
+  },
+  "had": {
+   "l": "have",
+   "p": "verb",
+   "i": "/hæd/",
+   "d": "used as an auxiliary verb for past perfect tense",
+   "b": "core1000",
+   "img": null
+  },
+  "developed": {
+   "l": "develop",
+   "p": "verb",
+   "i": "/dɪˈvɛl.əpt/",
+   "d": "created or built a product or system",
+   "b": "core1000",
+   "img": null
+  },
+  "large": {
+   "l": "large",
+   "p": "adj",
+   "i": "/lɑːrdʒ/",
+   "d": "big in size, capacity, or scope",
+   "b": "core1000",
+   "img": "art/words/big.jpg"
+  },
+  "designed": {
+   "l": "design",
+   "p": "verb",
+   "i": "/dɪˈzaɪnd/",
+   "d": "planned or created for a specific purpose",
+   "b": "core1000",
+   "img": null
+  },
+  "process": {
+   "l": "process",
+   "p": "verb",
+   "i": "/ˈprɑː.sɛs/",
+   "d": "perform operations on data or information",
+   "b": "core1000",
+   "img": null
+  },
+  "generate": {
+   "l": "generate",
+   "p": "verb",
+   "i": "/ˈdʒɛn.ə.reɪt/",
+   "d": "produce or create something automatically",
+   "b": "core1800",
+   "img": null
+  },
+  "natural": {
+   "l": "natural",
+   "p": "adj",
+   "i": "/ˈnætʃ.ɚ.əl/",
+   "d": "resembling language produced normally by humans",
+   "b": "core1000",
+   "img": null
+  },
+  "however": {
+   "l": "however",
+   "p": "adv",
+   "i": "/haʊˈɛv.ɚ/",
+   "d": "used to introduce a statement contrasting with something said",
+   "b": "core1000",
+   "img": null
+  },
+  "produced": {
+   "l": "produce",
+   "p": "verb",
+   "i": "/prəˈduːst/",
+   "d": "created or generated output",
+   "b": "core1000",
+   "img": null
+  },
+  "writing": {
+   "l": "writing",
+   "p": "noun",
+   "i": "/ˈraɪ.t̬ɪŋ/",
+   "d": "written text or passages",
+   "b": "core1000",
+   "img": "art/words/text.jpg"
+  },
+  "considered": {
+   "l": "consider",
+   "p": "verb",
+   "i": "/kənˈsɪd.ɚd/",
+   "d": "regarded or judged to be",
+   "b": "core1000",
+   "img": null
+  },
+  "almost": {
+   "l": "almost",
+   "p": "adv",
+   "i": "/ˈɑːl.moʊst/",
+   "d": "nearly or very close to",
+   "b": "core1000",
+   "img": null
+  },
+  "convincing": {
+   "l": "convincing",
+   "p": "adj",
+   "i": "/kənˈvɪn.sɪŋ/",
+   "d": "believable and persuasive",
+   "b": "core1800",
+   "img": null
+  },
+  "for": {
+   "l": "for",
+   "p": "prep",
+   "i": "/fɔːr/",
+   "d": "suitable or appropriate regarding",
+   "b": "core1000",
+   "img": null
+  },
+  "immediate": {
+   "l": "immediate",
+   "p": "adj",
+   "i": "/ɪˈmiː.di.ət/",
+   "d": "occurring right away without delay",
+   "b": "ngsl",
+   "img": null
+  },
+  "unrestricted": {
+   "l": "unrestricted",
+   "p": "adj",
+   "i": "/ˌʌn.rɪˈstrɪk.tɪd/",
+   "d": "not limited or controlled by rules",
+   "b": "beyond",
+   "img": null
+  },
+  "distribution": {
+   "l": "distribution",
+   "p": "noun",
+   "i": "/ˌdɪs.trəˈbjuː.ʃən/",
+   "d": "the act of sharing or supplying something widely",
+   "b": "tsl",
+   "img": null
+  },
+  "leaders": {
+   "l": "leader",
+   "p": "noun",
+   "i": "/ˈliː.dɚz/",
+   "d": "people in charge of an organization",
+   "b": "core1000",
+   "img": null
+  },
+  "reported": {
+   "l": "report",
+   "p": "verb",
+   "i": "/rɪˈpɔːr.tɪd/",
+   "d": "stated or announced official information",
+   "b": "core1000",
+   "img": null
+  },
+  "releasing": {
+   "l": "release",
+   "p": "verb",
+   "i": "/rɪˈliː.sɪŋ/",
+   "d": "making something available to the public",
+   "b": "core1000",
+   "img": null
+  },
+  "right": {
+   "l": "right",
+   "p": "adv",
+   "i": "/raɪt/",
+   "d": "immediately (used as part of 'right away')",
+   "b": "core1000",
+   "img": null
+  },
+  "away": {
+   "l": "away",
+   "p": "adv",
+   "i": "/əˈweɪ/",
+   "d": "immediately (used as part of 'right away')",
+   "b": "core1000",
+   "img": null
+  },
+  "posed": {
+   "l": "pose",
+   "p": "verb",
+   "i": "/poʊzd/",
+   "d": "presented or constituted a risk or threat",
+   "b": "ngsl",
+   "img": null
+  },
+  "significant": {
+   "l": "significant",
+   "p": "adj",
+   "i": "/sɪɡˈnɪf.ə.kənt/",
+   "d": "large or important enough to cause concern",
+   "b": "core1000",
+   "img": null
+  },
+  "risks": {
+   "l": "risk",
+   "p": "noun",
+   "i": "/rɪsks/",
+   "d": "possibilities of something bad or harmful happening",
+   "b": "core1000",
+   "img": null
+  },
+  "regarding": {
+   "l": "regarding",
+   "p": "prep",
+   "i": "/rɪˈɡɑːr.dɪŋ/",
+   "d": "concerning or about a topic",
+   "b": "core1000",
+   "img": null
+  },
+  "potential": {
+   "l": "potential",
+   "p": "adj",
+   "i": "/pəˈtɛn.ʃəl/",
+   "d": "possible; capable of becoming real",
+   "b": "core1000",
+   "img": null
+  },
+  "automated": {
+   "l": "automated",
+   "p": "adj",
+   "i": "/ˈɑː.t̬ə.meɪ.t̬ɪd/",
+   "d": "operated automatically by machines or software",
+   "b": "tsl",
+   "img": null
+  },
+  "misuse": {
+   "l": "misuse",
+   "p": "noun",
+   "i": "/ˌmɪsˈjuːs/",
+   "d": "the wrong or harmful use of something",
+   "b": "beyond",
+   "img": null
+  },
+  "consequently": {
+   "l": "consequently",
+   "p": "adv",
+   "i": "/ˈkɑːn.sə.kwənt.li/",
+   "d": "as a result; therefore",
+   "b": "ngsl",
+   "img": null
+  },
+  "phased": {
+   "l": "phased",
+   "p": "adj",
+   "i": "/feɪzd/",
+   "d": "carried out in gradual planned stages",
+   "b": "core1800",
+   "img": null
+  },
+  "launch": {
+   "l": "launch",
+   "p": "noun",
+   "i": "/lɑːntʃ/",
+   "d": "an act of introducing a new product",
+   "b": "core1800",
+   "img": null
+  },
+  "strategy": {
+   "l": "strategy",
+   "p": "noun",
+   "i": "/ˈstræt.ə.dʒi/",
+   "d": "a plan of action to achieve a goal",
+   "b": "core1000",
+   "img": null
+  },
+  "adopted": {
+   "l": "adopt",
+   "p": "verb",
+   "i": "/əˈdɑːp.tɪd/",
+   "d": "chose and put into effect a plan",
+   "b": "core1800",
+   "img": null
+  },
+  "allow": {
+   "l": "allow",
+   "p": "verb",
+   "i": "/əˈlaʊ/",
+   "d": "make it possible for something to happen",
+   "b": "core1000",
+   "img": null
+  },
+  "safety": {
+   "l": "safety",
+   "p": "noun",
+   "i": "/ˈseɪf.ti/",
+   "d": "freedom from danger or potential harm",
+   "b": "core1800",
+   "img": null
+  },
+  "evaluation": {
+   "l": "evaluation",
+   "p": "noun",
+   "i": "/ɪˌvæl.juˈeɪ.ʃən/",
+   "d": "the judgment or assessment of quality or risk",
+   "b": "ngsl",
+   "img": null
+  },
+  "complete": {
+   "l": "complete",
+   "p": "adj",
+   "i": "/kəmˈpliːt/",
+   "d": "having all necessary parts; whole",
+   "b": "core1000",
+   "img": null
+  },
+  "package": {
+   "l": "package",
+   "p": "noun",
+   "i": "/ˈpæk.ɪdʒ/",
+   "d": "a set of related software programs combined together",
+   "b": "core1800",
+   "img": "art/words/package.jpg"
+  },
+  "hesitation": {
+   "l": "hesitation",
+   "p": "noun",
+   "i": "/ˌhɛz.əˈteɪ.ʃən/",
+   "d": "uncertainty or delay before acting",
+   "b": "tsl",
+   "img": null
+  },
+  "sparked": {
+   "l": "spark",
+   "p": "verb",
+   "i": "/spɑːrkt/",
+   "d": "triggered or initiated something to happen",
+   "b": "beyond",
+   "img": null
+  },
+  "widespread": {
+   "l": "widespread",
+   "p": "adj",
+   "i": "/ˌwaɪdˈsprɛd/",
+   "d": "existing or happening over a large area or group",
+   "b": "nawl",
+   "img": null
+  },
+  "debate": {
+   "l": "debate",
+   "p": "noun",
+   "i": "/dɪˈbeɪt/",
+   "d": "formal discussion on a particular topic",
+   "b": "core1000",
+   "img": null
+  },
+  "responsible": {
+   "l": "responsible",
+   "p": "adj",
+   "i": "/rɪˈspɑːn.sə.bəl/",
+   "d": "showing good judgment and care for safety",
+   "b": "core1800",
+   "img": null
+  },
+  "innovation": {
+   "l": "innovation",
+   "p": "noun",
+   "i": "/ˌɪn.əˈveɪ.ʃən/",
+   "d": "the creation or introduction of new ideas or technology",
+   "b": "ngsl",
+   "img": null
+  },
+  "firm": {
+   "l": "firm",
+   "p": "noun",
+   "i": "/fɝːm/",
+   "d": "a company or business organization",
+   "b": "core1000",
+   "img": null
+  },
+  "eventually": {
+   "l": "eventually",
+   "p": "adv",
+   "i": "/ɪˈvɛn.tʃu.ə.li/",
+   "d": "in the end or after a period of time",
+   "b": "core1800",
+   "img": null
+  },
+  "an": {
+   "l": "an",
+   "p": "det",
+   "i": "/æn/",
+   "d": "used before a vowel sound to mean one",
+   "b": "core1000",
+   "img": null
+  },
+  "industry": {
+   "l": "industry",
+   "p": "noun",
+   "i": "/ˈɪn.də.stri/",
+   "d": "a specific category of commercial enterprise",
+   "b": "core1000",
+   "img": null
+  },
+  "leader": {
+   "l": "leader",
+   "p": "noun",
+   "i": "/ˈliː.dɚ/",
+   "d": "a dominant organization or company in a field",
+   "b": "core1000",
+   "img": null
+  },
+  "multi-billion-dollar": {
+   "l": "multi-billion-dollar",
+   "p": "adj",
+   "i": "/ˌmʌl.tiˈbɪl.jənˈdɑː.lɚ/",
+   "d": "valued at or earning several billion dollars",
+   "b": "beyond",
+   "img": null
+  },
+  "juggernaut": {
+   "l": "juggernaut",
+   "p": "noun",
+   "i": "/ˈdʒʌɡ.ɚ.nɑːt/",
+   "d": "a massive and powerful force or organization",
+   "b": "beyond",
+   "img": null
+  },
+  "dominating": {
+   "l": "dominate",
+   "p": "verb",
+   "i": "/ˈdɑː.mə.neɪ.t̬ɪŋ/",
+   "d": "being the most prominent feature of",
+   "b": "ngsl",
+   "img": null
+  },
+  "headlines": {
+   "l": "headline",
+   "p": "noun",
+   "i": "/ˈhɛd.laɪnz/",
+   "d": "the main news titles or prominent news stories",
+   "b": "beyond",
+   "img": null
+  },
+  "as": {
+   "l": "as",
+   "p": "prep",
+   "i": "/æz/",
+   "d": "in the role or capacity of",
+   "b": "core1000",
+   "img": null
+  },
+  "modest": {
+   "l": "modest",
+   "p": "adj",
+   "i": "/ˈmɑː.dɪst/",
+   "d": "relatively small or limited in size or scope",
+   "b": "ngsl",
+   "img": null
+  },
+  "initiative": {
+   "l": "initiative",
+   "p": "noun",
+   "i": "/ɪˈnɪʃ.ə.t̬ɪv/",
+   "d": "an important new project or program",
+   "b": "ngsl",
+   "img": null
+  },
+  "residential": {
+   "l": "residential",
+   "p": "adj",
+   "i": "/ˌrɛz.əˈdɛn.ʃəl/",
+   "d": "designed for or relating to private housing",
+   "b": "tsl",
+   "img": null
+  },
+  "initial": {
+   "l": "initial",
+   "p": "adj",
+   "i": "/ɪˈnɪʃ.əl/",
+   "d": "occurring at the beginning; first",
+   "b": "core1800",
+   "img": null
+  },
+  "cohort": {
+   "l": "cohort",
+   "p": "noun",
+   "i": "/ˈkoʊ.hɔːrt/",
+   "d": "a group of people banded together for a purpose",
+   "b": "beyond",
+   "img": null
+  },
+  "united": {
+   "l": "unite",
+   "p": "verb",
+   "i": "/juːˈnaɪ.t̬ɪd/",
+   "d": "joined together for a common purpose",
+   "b": "ngsl",
+   "img": null
+  },
+  "shared": {
+   "l": "shared",
+   "p": "adj",
+   "i": "/ʃɛrd/",
+   "d": "held or common to multiple people",
+   "b": "core1000",
+   "img": null
+  },
+  "mission": {
+   "l": "mission",
+   "p": "noun",
+   "i": "/ˈmɪʃ.ən/",
+   "d": "an important goal or purpose of an organization",
+   "b": "core1800",
+   "img": null
+  },
+  "develop": {
+   "l": "develop",
+   "p": "verb",
+   "i": "/dɪˈvɛl.əp/",
+   "d": "create, build, or refine technology over time",
+   "b": "core1000",
+   "img": null
+  },
+  "safe": {
+   "l": "safe",
+   "p": "adj",
+   "i": "/seɪf/",
+   "d": "free from harm or threat of danger",
+   "b": "core1800",
+   "img": null
+  },
+  "operating": {
+   "l": "operate",
+   "p": "verb",
+   "i": "/ˈɑː.pə.reɪ.t̬ɪŋ/",
+   "d": "functioning or carrying out activities",
+   "b": "core1000",
+   "img": null
+  },
+  "fraction": {
+   "l": "fraction",
+   "p": "noun",
+   "i": "/ˈfræk.ʃən/",
+   "d": "a small part or portion of a whole amount",
+   "b": "nawl",
+   "img": null
+  },
+  "tech": {
+   "l": "tech",
+   "p": "noun",
+   "i": "/tɛk/",
+   "d": "technology or companies in the technology sector",
+   "b": "tsl",
+   "img": null
+  },
+  "giants": {
+   "l": "giant",
+   "p": "noun",
+   "i": "/ˈdʒaɪ.ənts/",
+   "d": "very large and powerful companies",
+   "b": "ngsl",
+   "img": null
+  },
+  "funding": {
+   "l": "funding",
+   "p": "noun",
+   "i": "/ˈfʌn.dɪŋ/",
+   "d": "financial resources provided for a project",
+   "b": "core1000",
+   "img": null
+  },
+  "lean": {
+   "l": "lean",
+   "p": "adj",
+   "i": "/liːn/",
+   "d": "operating efficiently with minimal resources or staff",
+   "b": "ngsl",
+   "img": null
+  },
+  "set": {
+   "l": "set",
+   "p": "verb",
+   "i": "/sɛt/",
+   "d": "began an enterprise or attempt (used with 'out')",
+   "b": "core1000",
+   "img": null
+  },
+  "challenge": {
+   "l": "challenge",
+   "p": "verb",
+   "i": "/ˈtʃæl.ɪndʒ/",
+   "d": "compete against or confront a dominant rival",
+   "b": "core1000",
+   "img": null
+  },
+  "rivals": {
+   "l": "rival",
+   "p": "noun",
+   "i": "/ˈraɪ.vəlz/",
+   "d": "competitors in the same field or market",
+   "b": "ngsl",
+   "img": null
+  },
+  "through": {
+   "l": "through",
+   "p": "prep",
+   "i": "/θruː/",
+   "d": "by means of; using a particular method",
+   "b": "core1000",
+   "img": null
+  },
+  "open": {
+   "l": "open",
+   "p": "adj",
+   "i": "/ˈoʊ.pən/",
+   "d": "transparent and accessible to everyone",
+   "b": "core1000",
+   "img": "art/words/open.jpg"
+  },
+  "collaboration": {
+   "l": "collaboration",
+   "p": "noun",
+   "i": "/kəˌlæb.əˈreɪ.ʃən/",
+   "d": "the act of working together jointly",
+   "b": "tsl",
+   "img": null
+  },
+  "idealistic": {
+   "l": "idealistic",
+   "p": "adj",
+   "i": "/ˌaɪ.di.əˈlɪs.tɪk/",
+   "d": "guided by high principles rather than practical constraints",
+   "b": "beyond",
+   "img": null
+  },
+  "approach": {
+   "l": "approach",
+   "p": "noun",
+   "i": "/əˈproʊtʃ/",
+   "d": "a way of dealing with a task or situation",
+   "b": "core1000",
+   "img": null
+  },
+  "faced": {
+   "l": "face",
+   "p": "verb",
+   "i": "/feɪst/",
+   "d": "encountered or dealt with a situation",
+   "b": "core1000",
+   "img": "art/words/face.jpg"
+  },
+  "major": {
+   "l": "major",
+   "p": "adj",
+   "i": "/ˈmeɪ.dʒɚ/",
+   "d": "important, serious, or significant",
+   "b": "core1000",
+   "img": null
+  },
+  "test": {
+   "l": "test",
+   "p": "noun",
+   "i": "/tɛst/",
+   "d": "a critical situation that assesses ability or strength",
+   "b": "core1000",
+   "img": null
+  },
+  "creation": {
+   "l": "creation",
+   "p": "noun",
+   "i": "/kriˈeɪ.ʃən/",
+   "d": "the act of making or inventing something new",
+   "b": "ngsl",
+   "img": null
+  },
+  "advanced": {
+   "l": "advanced",
+   "p": "adj",
+   "i": "/ədˈvænst/",
+   "d": "highly developed or sophisticated in design",
+   "b": "core1000",
+   "img": null
+  },
+  "capable": {
+   "l": "capable",
+   "p": "adj",
+   "i": "/ˈkeɪ.pə.bəl/",
+   "d": "having the ability to perform a task",
+   "b": "ngsl",
+   "img": null
+  },
+  "generating": {
+   "l": "generate",
+   "p": "verb",
+   "i": "/ˈdʒɛn.ə.reɪ.t̬ɪŋ/",
+   "d": "producing or creating text or data",
+   "b": "core1800",
+   "img": null
+  },
+  "coherent": {
+   "l": "coherent",
+   "p": "adj",
+   "i": "/koʊˈhɪr.ənt/",
+   "d": "logical, clear, and well-structured",
+   "b": "nawl",
+   "img": null
+  },
+  "team's": {
+   "l": "team",
+   "p": "noun",
+   "i": "/tiːmz/",
+   "d": "group of people working together on a task",
+   "b": "core1000",
+   "img": "art/words/team.jpg"
+  },
+  "surprise": {
+   "l": "surprise",
+   "p": "noun",
+   "i": "/sərˈpraɪz/",
+   "d": "an unexpected or astonishing event or fact",
+   "b": "core1000",
+   "img": null
+  },
+  "generated": {
+   "l": "generate",
+   "p": "verb",
+   "i": "/ˈdʒɛnəˌreɪtəd/",
+   "d": "produced or created something",
+   "b": "core1800",
+   "img": null
+  },
+  "prose": {
+   "l": "prose",
+   "p": "noun",
+   "i": "/proʊz/",
+   "d": "written language in ordinary form",
+   "b": "beyond",
+   "img": null
+  },
+  "persuasively": {
+   "l": "persuasively",
+   "p": "adv",
+   "i": "/pərˈsweɪsɪvli/",
+   "d": "in a convincing manner",
+   "b": "beyond",
+   "img": null
+  },
+  "executives": {
+   "l": "executive",
+   "p": "noun",
+   "i": "/ɪɡˈzɛkjətɪvz/",
+   "d": "senior managers in an organization",
+   "b": "core1800",
+   "img": null
+  },
+  "hesitated": {
+   "l": "hesitate",
+   "p": "verb",
+   "i": "/ˈhɛzəˌteɪtəd/",
+   "d": "paused before acting due to uncertainty",
+   "b": "ngsl",
+   "img": null
+  },
+  "code": {
+   "l": "code",
+   "p": "noun",
+   "i": "/koʊd/",
+   "d": "instructions written for a computer program",
+   "b": "core1800",
+   "img": "art/words/code.jpg"
+  },
+  "immediately": {
+   "l": "immediately",
+   "p": "adv",
+   "i": "/ɪˈmiːdiətli/",
+   "d": "right away without delay",
+   "b": "core1000",
+   "img": null
+  },
+  "fearing": {
+   "l": "fear",
+   "p": "verb",
+   "i": "/ˈfɪrɪŋ/",
+   "d": "being afraid or anxious about something",
+   "b": "core1000",
+   "img": null
+  },
+  "misinformation": {
+   "l": "misinformation",
+   "p": "noun",
+   "i": "/ˌmɪsɪnfərˈmeɪʃən/",
+   "d": "false or inaccurate information",
+   "b": "beyond",
+   "img": null
+  },
+  "campaigns": {
+   "l": "campaign",
+   "p": "noun",
+   "i": "/kæmˈpeɪnz/",
+   "d": "organized series of activities to achieve a goal",
+   "b": "core1000",
+   "img": null
+  },
+  "made": {
+   "l": "make",
+   "p": "verb",
+   "i": "/meɪd/",
+   "d": "carried out an action or reached a decision",
+   "b": "core1000",
+   "img": "art/words/make.jpg"
+  },
+  "unprecedented": {
+   "l": "unprecedented",
+   "p": "adj",
+   "i": "/ʌnˈprɛsɪˌdɛntɪd/",
+   "d": "never done or known before",
+   "b": "beyond",
+   "img": null
+  },
+  "withhold": {
+   "l": "withhold",
+   "p": "verb",
+   "i": "/wɪðˈhoʊld/",
+   "d": "refuse to give or disclose something",
+   "b": "beyond",
+   "img": null
+  },
+  "during": {
+   "l": "during",
+   "p": "prep",
+   "i": "/ˈdʊrɪŋ/",
+   "d": "throughout or at a point in a period",
+   "b": "core1000",
+   "img": null
+  },
+  "announcement": {
+   "l": "announcement",
+   "p": "noun",
+   "i": "/əˈnaʊnsmənt/",
+   "d": "a formal public statement",
+   "b": "ngsl",
+   "img": null
+  },
+  "move": {
+   "l": "move",
+   "p": "noun",
+   "i": "/muːv/",
+   "d": "an action taken to achieve something",
+   "b": "core1000",
+   "img": null
+  },
+  "ignited": {
+   "l": "ignite",
+   "p": "verb",
+   "i": "/ɪɡˈnaɪtɪd/",
+   "d": "triggered or sparked a reaction",
+   "b": "beyond",
+   "img": null
+  },
+  "intense": {
+   "l": "intense",
+   "p": "adj",
+   "i": "/ɪnˈtɛns/",
+   "d": "very strong or extreme",
+   "b": "ngsl",
+   "img": null
+  },
+  "discussion": {
+   "l": "discussion",
+   "p": "noun",
+   "i": "/dɪˈskʌʃən/",
+   "d": "talk or debate about a topic",
+   "b": "core1000",
+   "img": null
+  },
+  "across": {
+   "l": "across",
+   "p": "prep",
+   "i": "/əˈkrɔs/",
+   "d": "throughout an entire area or system",
+   "b": "core1000",
+   "img": null
+  },
+  "sector": {
+   "l": "sector",
+   "p": "noun",
+   "i": "/ˈsɛktər/",
+   "d": "an area of economy or industry",
+   "b": "core1800",
+   "img": null
+  },
+  "critics": {
+   "l": "critic",
+   "p": "noun",
+   "i": "/ˈkrɪtɪks/",
+   "d": "people who express disapproval or judgment",
+   "b": "core1800",
+   "img": null
+  },
+  "questioning": {
+   "l": "question",
+   "p": "verb",
+   "i": "/ˈkwɛstʃənɪŋ/",
+   "d": "expressing doubt about something",
+   "b": "core1000",
+   "img": null
+  },
+  "whether": {
+   "l": "whether",
+   "p": "conj",
+   "i": "/ˈwɛðər/",
+   "d": "expressing a choice or doubt between alternatives",
+   "b": "core1000",
+   "img": null
+  },
+  "danger": {
+   "l": "danger",
+   "p": "noun",
+   "i": "/ˈdeɪndʒər/",
+   "d": "possibility of harm or trouble",
+   "b": "core1800",
+   "img": null
+  },
+  "genuine": {
+   "l": "genuine",
+   "p": "adj",
+   "i": "/ˈdʒɛnjuwɪn/",
+   "d": "real, authentic, or sincere",
+   "b": "ngsl",
+   "img": null
+  },
+  "or": {
+   "l": "or",
+   "p": "conj",
+   "i": "/ɔr/",
+   "d": "used to connect possibilities or alternatives",
+   "b": "core1000",
+   "img": null
+  },
+  "clever": {
+   "l": "clever",
+   "p": "adj",
+   "i": "/ˈklɛvər/",
+   "d": "skillful, intelligent, or sharp",
+   "b": "nawl",
+   "img": null
+  },
+  "marketing": {
+   "l": "marketing",
+   "p": "noun",
+   "i": "/ˈmɑrkətɪŋ/",
+   "d": "activities promoting and selling products or services",
+   "b": "core1000",
+   "img": null
+  },
+  "looking": {
+   "l": "look",
+   "p": "verb",
+   "i": "/ˈlʊkɪŋ/",
+   "d": "reflecting or thinking about past events",
+   "b": "core1000",
+   "img": "art/words/look.jpg"
+  },
+  "back": {
+   "l": "back",
+   "p": "adv",
+   "i": "/bæk/",
+   "d": "into or toward the past",
+   "b": "core1000",
+   "img": null
+  },
+  "theatrical": {
+   "l": "theatrical",
+   "p": "adj",
+   "i": "/θiˈætrɪkəl/",
+   "d": "exaggerated or calculated for effect",
+   "b": "beyond",
+   "img": null
+  },
+  "caution": {
+   "l": "caution",
+   "p": "noun",
+   "i": "/ˈkɔʃən/",
+   "d": "care taken to avoid danger or mistakes",
+   "b": "tsl",
+   "img": null
+  },
+  "marked": {
+   "l": "mark",
+   "p": "verb",
+   "i": "/mɑrkt/",
+   "d": "indicated or represented a change",
+   "b": "core1000",
+   "img": null
+  },
+  "pivotal": {
+   "l": "pivotal",
+   "p": "adj",
+   "i": "/ˈpɪvətəl/",
+   "d": "crucially important or decisive",
+   "b": "beyond",
+   "img": null
+  },
+  "transition": {
+   "l": "transition",
+   "p": "noun",
+   "i": "/trænˈzɪʃən/",
+   "d": "process of changing from one state to another",
+   "b": "ngsl",
+   "img": null
+  },
+  "informal": {
+   "l": "informal",
+   "p": "adj",
+   "i": "/ɪnˈfɔrməl/",
+   "d": "relaxed, casual, or unofficial",
+   "b": "tsl",
+   "img": null
+  },
+  "startup": {
+   "l": "startup",
+   "p": "noun",
+   "i": "/ˈstɑrtˌʌp/",
+   "d": "a newly established business or company",
+   "b": "beyond",
+   "img": null
+  },
+  "culture": {
+   "l": "culture",
+   "p": "noun",
+   "i": "/ˈkʌltʃər/",
+   "d": "attitudes and behavior characteristic of an organization",
+   "b": "core1000",
+   "img": null
+  },
+  "high-stakes": {
+   "l": "high-stakes",
+   "p": "adj",
+   "i": "/ˈhaɪˈsteɪks/",
+   "d": "involving major risks or large rewards",
+   "b": "beyond",
+   "img": null
+  },
+  "pioneer": {
+   "l": "pioneer",
+   "p": "noun",
+   "i": "/ˌpaɪəˈnɪr/",
+   "d": "a person or group developing new ideas or methods",
+   "b": "beyond",
+   "img": null
+  }
+ },
+ "image": "art/headlines/ai_03.jpg",
+ "narrator": "Leda"
+}
