@@ -28,10 +28,12 @@
 <tr><td>Google LLC(Android の音声入力)</td><td>マイクで話した声</td><td>Android の音声認識サービスで文字にするため。</td><td>Google のプライバシーポリシーに従います。運営者には届きません。</td></tr>
 <tr><td>Apple Inc. / Google LLC(決済)</td><td>購入の情報</td><td>App Store・Google Play での購入と自動更新のため。</td><td>各社のポリシーに従います。カード情報を運営者が受け取ることはありません。</td></tr>
 <tr><td>GitHub, Inc.(GitHub Pages)、Cloudflare, Inc.(R2)</td><td>記事・音声・写真の取得に伴う IP アドレスなどの通信の記録</td><td>ニュース記事・音声・写真を配信するため。</td><td>各社のサーバーの記録として短期間保存されることがあります。</td></tr>
-<tr><td>jsDelivr、Hugging Face, Inc.(Android アプリのみ)</td><td>ファイルの取得に伴う IP アドレスなどの通信の記録</td><td>無料の声(Kokoro)の読み上げモデルを初回に読み込むため。読み上げ自体は端末の中で行い、文は送りません。</td><td>各社のサーバーの記録として短期間保存されることがあります。</td></tr>
+<tr><td>Hugging Face, Inc.(iPhone・iPad)</td><td>ファイルの取得に伴う IP アドレスなどの通信の記録</td><td>端末の中で声を作るためのデータを Hugging Face から一度だけダウンロードします。日記の内容は送りません。ダウンロードは原則 Wi-Fi のときだけです。</td><td>Hugging Face のサーバーの記録として短期間保存されることがあります。</td></tr>
+<tr><td>jsDelivr、Hugging Face, Inc.(Android アプリ)</td><td>ファイルの取得に伴う IP アドレスなどの通信の記録</td><td>無料の声(Kokoro)の読み上げモデルを初回に読み込むため。読み上げ自体は端末の中で行い、文は送りません。</td><td>各社のサーバーの記録として短期間保存されることがあります。</td></tr>
+<tr><td>Apple Inc.(App Attest、iPhone・iPad)と中継サーバー</td><td>端末で作る鍵の ID と、アプリが改ざんされていないことを示す証明</td><td>正規のアプリからの利用であることを確かめ、不正な大量利用を防ぐため。</td><td>中継サーバーは鍵の ID と公開鍵を保存します。名前や連絡先とは結びつきません。</td></tr>
 </table></div>
-<!-- App Attest / Play Integrity を入れた版を公開するときに、表に次の行を足す。
-<tr><td>Apple Inc.(App Attest)/ Google LLC(Play Integrity)と中継サーバー</td><td>端末で作る鍵の ID と、アプリが改ざんされていないことを示す証明</td><td>正規のアプリからの利用であることを確かめ、不正な大量利用を防ぐため。</td><td>中継サーバーは鍵の ID と公開鍵を保存します。名前や連絡先とは結びつきません。</td></tr>
+<!-- Play Integrity を入れた Android 版を公開するときに、表に次の行を足す。
+<tr><td>Google LLC(Play Integrity)と中継サーバー</td><td>端末で作る鍵の ID と、アプリが改ざんされていないことを示す証明</td><td>正規のアプリからの利用であることを確かめ、不正な大量利用を防ぐため。</td><td>中継サーバーは鍵の ID と公開鍵を保存します。名前や連絡先とは結びつきません。</td></tr>
 -->
 
 <h2>4. 情報を消すには</h2>
@@ -75,6 +77,8 @@
 <li><strong>Speech input.</strong> On newer iPhones and iPads speech is turned into text on the device. On devices that cannot do this, Apple's speech recognition server is used. On Android, the system speech recognition service (Google) is used. The audio never reaches us.</li>
 <li><strong>Payments</strong> are handled by Apple (App Store) or Google (Google Play). We never see card details.</li>
 <li><strong>Content.</strong> Stories, audio and photos are downloaded from GitHub Pages and Cloudflare R2; the Android app also downloads the free on-device voice model from jsDelivr and Hugging Face once. These hosts may keep standard connection logs (IP address, time, file).</li>
+<li><strong>On-device voice (iPhone and iPad).</strong> The app downloads the data for making the voice on your device from Hugging Face, once. Your diary is never sent. The download normally happens only on Wi-Fi. Hugging Face may keep standard connection logs (IP address, time, file).</li>
+<li><strong>App Attest (iPhone and iPad).</strong> To confirm that requests come from the genuine app and to prevent abuse, the app sends our relay a key ID made on the device and Apple's proof that the app has not been modified. The relay keeps the key ID and public key; they are not linked to a name or contact details.</li>
 </ul>
 
 <h2>Deleting data</h2>
