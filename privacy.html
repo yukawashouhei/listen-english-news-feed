@@ -1,26 +1,87 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>English Diary Penguin – Privacy Policy</title>
-<style>body{font-family:Georgia,serif;max-width:640px;margin:3em auto;padding:0 1.2em;line-height:1.6;color:#1c1f29;background:#f7f3ec}h1{font-size:2em}a{color:#c8452b}</style></head>
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>英語日記ペンギン – プライバシーポリシー / Privacy Policy</title>
+<style>body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans",Georgia,serif;max-width:720px;margin:3em auto;padding:0 16px;line-height:1.7;color:#1c1f29;background:#f7f3ec}h1{font-size:1.9em;line-height:1.3}h2{font-size:1.15em;margin-top:2em}h3{font-size:1em;margin:1.4em 0 .3em}a{color:#c8452b}table{border-collapse:collapse;width:100%;font-size:.92em}th,td{border-top:1px solid #d9d2c5;padding:.55em .4em;text-align:left;vertical-align:top}th{white-space:nowrap}.wrap{overflow-x:auto}.note{font-size:.88em;color:#555}hr{border:0;border-top:1px solid #d9d2c5;margin:3em 0}@media (max-width:560px){table,tbody,tr,th,td{display:block}th{border-top:0;padding-bottom:0}td{border-top:0;padding-top:.1em}tr{border-top:1px solid #d9d2c5;padding:.4em 0}}</style></head>
 <body>
-<h1>Privacy Policy</h1>
-<p><em>Effective 21 November 2026</em></p>
-<p>English Diary Penguin (formerly Listen English News, "the app") is published by Shohei Yukawa. This policy explains what the app does with your data.</p>
+<h1>プライバシーポリシー</h1>
+<p><em>2026 年 11 月 22 日 改定</em>(<a href="#en">English below</a>)</p>
+<p>英語日記ペンギン(旧名 Listen English News。iPhone・iPad・Android のアプリ。以下「本アプリ」)を運営する湯川翔平(以下「運営者」)が、利用者の情報をどう扱うかを定めます。ウェブ版(eigonikki.pages.dev)は<a href="https://eigonikki.pages.dev/privacy">ウェブ版のプライバシーポリシー</a>をご覧ください。</p>
 
-<h2>What the app stores on your device</h2>
-<p>Your diary entries and their audio, saved words, settings (exam, level, language, playback speed, background color, start page) and downloaded stories are stored only on your device (and in your device backup, iCloud on iPhone or Google on Android, if enabled). You can export and import your diary as a file in Settings.</p>
+<h2>1. 運営者が持たない情報</h2>
+<ul>
+<li>アカウント登録はありません。名前・メールアドレス・電話番号・住所は受け取りません。</li>
+<li>日記の文・英文・音声は、運営者のサーバーに保存しません。</li>
+<li>広告は出しません。アプリやウェブサイトをまたいだ追跡(トラッキング)はしません。広告 ID は使いません。情報を売ることはありません。</li>
+</ul>
+
+<h2>2. 端末の中に保存するもの</h2>
+<p>日記(日本語の文・英文・音声・解説)、保存した単語カード、設定、ダウンロードした記事は、お使いの端末の中にだけ保存します(端末のバックアップを有効にしている場合は、iPhone は iCloud、Android は Google のバックアップにも含まれます)。日記は設定からファイルに書き出し・読み込みができます。「カレンダーに追加」をオンにした場合だけ、日記をカレンダーの予定として端末のカレンダーに書き込みます。カレンダーの内容を外部に送ることはありません。</p>
+
+<h2>3. 外部に送る情報(電気通信事業法の外部送信についての公表を含みます)</h2>
+<p>次の表のとおり、機能を使うときに必要な情報だけを送ります。送るときは常に暗号化通信(HTTPS)です。</p>
+<div class="wrap"><table>
+<tr><th>送信先</th><th>送る情報</th><th>目的・送るとき</th><th>送信先での保存</th></tr>
+<tr><td>運営者の中継サーバー<br>(Cloudflare, Inc. の Cloudflare Workers 上)</td><td>日記の日本語の文・英文、選んだレベルと声の種類、アプリごとのランダムな利用者 ID(RevenueCat の匿名 ID)、通信に伴う IP アドレス</td><td>日記を整える・英語にする・直す・解説を作る・声を作るときに、下の AI サービスへ取り次ぐため。1 日の利用回数の上限を守るため。</td><td>日記の文・英文・音声は保存しません。保存するのは、日ごとの利用回数(2 日で消えます)、有料プランが有効かどうかの一時的な控え(10 分で消えます)、無料の高音質の声を使ったかどうかの印(消しません)だけです。</td></tr>
+<tr><td>Anthropic, PBC(Claude)</td><td>日記の日本語の文・英文(名前や利用者 ID は付けません)</td><td>日本語を整える・英語の日記にする・英文を直す・文法と単語の解説を作るため。</td><td>Anthropic は API の入力と出力を受け取ってから 30 日以内に削除します。利用ポリシー違反の疑いがあると判定された場合は最長 2 年保存されます。Anthropic は API の入力と出力を AI の学習に使いません。<span class="note">(出典: <a href="https://privacy.claude.com/en/articles/7996866-how-long-do-you-store-my-organization-s-data">How long do you store my organization's data?</a>、<a href="https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training">Is my data used for model training?</a>、2026 年 11 月 22 日確認)</span></td></tr>
+<tr><td>Google LLC(Gemini API)</td><td>日記の英文と声の種類(名前や利用者 ID は付けません)</td><td>英文を高音質の声で読み上げた音声を作るため。</td><td>Google は不正利用の検知と防止のため、送られた文と作られた音声を 55 日間保存します。Google の無料枠で処理された場合は、Google がサービスの改善に使い、人が内容を確認することがあります(有料枠では改善に使いません)。本アプリは、Google のやり取り保存機能をオフにして送信します。<span class="note">(出典: <a href="https://aistudio.google.com/docs/usage-policies">Gemini API Usage Policies</a>、<a href="https://aistudio.google.com/docs/terms">Gemini API Additional Terms of Service</a>、<a href="https://aistudio.google.com/docs/interactions-overview">Interactions API</a>、2026 年 11 月 22 日確認)</span></td></tr>
+<tr><td>Google LLC(Google Analytics for Firebase)</td><td>開いた画面の名前、機能を使った回数(イベント名と、レベル・声・プランなど決まった語だけ)、最初に選んだ学習の目的、プラン(無料・有料)、アプリごとに作られる ID(アプリ インスタンス ID)、端末の機種・OS・言語、IP アドレスから推定される大まかな地域、アプリ内購入の発生(商品 ID と価格)</td><td>どの機能がどれくらい使われているかを知り、アプリを改善するため。</td><td>Google アナリティクスの保持期間の設定に従って保存されます。日記の文・単語・記事の内容は送りません。広告 ID・IDFV・広告向けの機能は使いません。<span class="note">(Google のデータの扱い: <a href="https://support.google.com/analytics/answer/10285841">Google アナリティクス for Firebase のデータ開示</a>)</span><br><strong>止め方:</strong> 設定の「Google Analytics に送る」をオフにすると、その場で送信を止めます。止めても機能は変わりません。</td></tr>
+<tr><td>RevenueCat, Inc.</td><td>アプリごとのランダムな利用者 ID、購入の記録(App Store・Google Play のレシート)。ウェブ版で購入した方がサインインした場合は、ウェブ版のアカウント ID(ランダムな ID)</td><td>有料プラン(ペンギンパス)の購入を確かめ、有効かどうかを判定するため。中継サーバーも、この ID で有料かどうかを RevenueCat に問い合わせます。</td><td>RevenueCat に購入の記録として保存されます。名前やメールアドレスは送りません。<span class="note">(<a href="https://www.revenuecat.com/privacy">RevenueCat のプライバシーポリシー</a>)</span></td></tr>
+<tr><td>Apple Inc.(iPhone・iPad の音声入力)</td><td>マイクで話した声</td><td>端末の中で文字にできない機種のときだけ、Apple の音声認識で文字にするため。新しい機種では端末の中で文字にし、声は外に出ません。</td><td>Apple のプライバシーポリシーに従います。運営者には届きません。</td></tr>
+<tr><td>Google LLC(Android の音声入力)</td><td>マイクで話した声</td><td>Android の音声認識サービスで文字にするため。</td><td>Google のプライバシーポリシーに従います。運営者には届きません。</td></tr>
+<tr><td>Apple Inc. / Google LLC(決済)</td><td>購入の情報</td><td>App Store・Google Play での購入と自動更新のため。</td><td>各社のポリシーに従います。カード情報を運営者が受け取ることはありません。</td></tr>
+<tr><td>GitHub, Inc.(GitHub Pages)、Cloudflare, Inc.(R2)</td><td>記事・音声・写真の取得に伴う IP アドレスなどの通信の記録</td><td>ニュース記事・音声・写真を配信するため。</td><td>各社のサーバーの記録として短期間保存されることがあります。</td></tr>
+<tr><td>jsDelivr、Hugging Face, Inc.(Android アプリのみ)</td><td>ファイルの取得に伴う IP アドレスなどの通信の記録</td><td>無料の声(Kokoro)の読み上げモデルを初回に読み込むため。読み上げ自体は端末の中で行い、文は送りません。</td><td>各社のサーバーの記録として短期間保存されることがあります。</td></tr>
+</table></div>
+<!-- App Attest / Play Integrity を入れた版を公開するときに、表に次の行を足す。
+<tr><td>Apple Inc.(App Attest)/ Google LLC(Play Integrity)と中継サーバー</td><td>端末で作る鍵の ID と、アプリが改ざんされていないことを示す証明</td><td>正規のアプリからの利用であることを確かめ、不正な大量利用を防ぐため。</td><td>中継サーバーは鍵の ID と公開鍵を保存します。名前や連絡先とは結びつきません。</td></tr>
+-->
+
+<h2>4. 情報を消すには</h2>
+<ul>
+<li>端末の中の日記・カード・設定は、アプリを削除すると消えます。</li>
+<li>中継サーバーの回数の記録は 2 日で自動的に消えます。</li>
+<li>RevenueCat に残る購入の記録の削除は、下記のお問い合わせ先にご連絡ください。購入時の領収書にある注文 ID(Google Play は注文番号)を書き添えてください。</li>
+</ul>
+
+<h2>5. 第三者への提供</h2>
+<p>上の表の送信先のほかに、利用者の情報を第三者に提供することはありません(法令に基づく場合を除きます)。</p>
+
+<h2>6. 子どもの利用</h2>
+<p>本アプリは 13 歳未満の子どもを対象としていません。</p>
+
+<h2>7. 改定</h2>
+<p>送信先や送る情報が変わるときは、このページを改定してから変更します。</p>
+
+<h2>8. お問い合わせ</h2>
+<p><a href="mailto:yukawa.shouhei@gmail.com">yukawa.shouhei@gmail.com</a></p>
+
+<hr>
+
+<h1 id="en">Privacy Policy</h1>
+<p><em>Effective 22 November 2026</em></p>
+<p>English Diary Penguin (formerly Listen English News; the iPhone, iPad and Android app, "the app") is published by Shohei Yukawa. The Japanese text above is the authoritative version. The web version has <a href="https://eigonikki.pages.dev/privacy">its own policy</a>.</p>
+
+<h2>What we do not hold</h2>
+<p>There is no sign-up. We never receive your name, email, phone number or address. Your diary text, English text and audio are not stored on our servers. No ads, no tracking across apps or websites, no advertising identifier, no sale of data.</p>
+
+<h2>On your device</h2>
+<p>Diary entries (Japanese, English, audio, notes), saved word cards, settings and downloaded stories stay on your device (and in your device backup, iCloud on iPhone or Google on Android, if enabled). If you turn on "Add to Calendar", each diary is written to your device calendar; nothing from the calendar is sent anywhere.</p>
 
 <h2>What leaves your device</h2>
-<p><strong>Diary processing.</strong> When you ask the app to tidy your Japanese text, turn it into English, or read it aloud in the natural voice, the text is sent over HTTPS to our relay server (Cloudflare Workers), which passes it to AI services (Anthropic and Google) to produce the result. The relay does not store your diary text. It keeps a daily count of requests per app user ID to apply usage limits.</p>
-<p><strong>Speech recognition.</strong> When you dictate, your speech is converted to text by your device's speech recognition (Apple on iPhone, Google on Android). The audio is not sent to us.</p>
-<p><strong>Content downloads.</strong> The app fetches stories, translations and audio from our static content server over HTTPS. Standard server logs (IP address, time, file requested) may be kept briefly by the hosting provider (GitHub Pages).</p>
-<p><strong>Purchases.</strong> Subscriptions are processed by Apple (App Store) or Google (Google Play), depending on where you bought them. We use RevenueCat to validate purchases; RevenueCat receives an anonymous app user ID and purchase receipts, never your name or email. See <a href="https://www.revenuecat.com/privacy">RevenueCat's privacy policy</a>.</p>
-<p><strong>Account from the web version.</strong> If you bought the pass on our website and choose "Sign in" in Settings, the app receives your account ID (a random identifier, no name or email) so the subscription is recognized. The app does not create accounts.</p>
-<p><strong>Usage analytics.</strong> We use Google Analytics for Firebase to count which screens are opened and how often features are used. It does not receive your diary text or saved words, and we do not use the advertising identifier.</p>
+<ul>
+<li><strong>Our relay server (Cloudflare Workers).</strong> When you tidy, translate, correct or voice a diary, the text, the chosen level and voice, a random app user ID (the RevenueCat anonymous ID) and, as part of any connection, your IP address reach our relay, which passes the text to the AI services below. The relay does not store the text or the audio. It keeps only daily request counts (deleted after 2 days), a 10-minute cache of whether the pass is active, and a flag for whether the free natural voice has been used (kept).</li>
+<li><strong>Anthropic, PBC (Claude)</strong> receives the diary text (no name or user ID) to tidy, translate, correct and explain it. Anthropic deletes API inputs and outputs within 30 days; inputs flagged for a usage-policy violation may be kept up to 2 years; API data is not used for model training. Sources: <a href="https://privacy.claude.com/en/articles/7996866-how-long-do-you-store-my-organization-s-data">retention</a>, <a href="https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training">training</a> (checked 22 Nov 2026).</li>
+<li><strong>Google LLC (Gemini API)</strong> receives the English diary text and voice choice (no name or user ID) to make the natural-voice audio. Google keeps prompts and outputs for 55 days to detect abuse. When a request is served on Google's free tier, Google may use it to improve its products and human reviewers may read it; on the paid tier it does not. The app sends requests with Google's interaction storage turned off. Sources: <a href="https://aistudio.google.com/docs/usage-policies">usage policies</a>, <a href="https://aistudio.google.com/docs/terms">additional terms</a>, <a href="https://aistudio.google.com/docs/interactions-overview">Interactions API</a> (checked 22 Nov 2026).</li>
+<li><strong>Google Analytics for Firebase</strong> receives screen names, feature counts (event names with fixed words such as level, voice or plan), the learning purpose you chose, your plan (free or pass), an app instance ID, device model, OS and language, approximate region derived from IP, and in-app purchase events (product ID and price). Never diary text, words or stories. No advertising ID, IDFV or ad features. Turn it off any time in Settings ("Send to Google Analytics").</li>
+<li><strong>RevenueCat, Inc.</strong> receives the random app user ID and purchase receipts (and, if you sign in with a pass bought on the web, the web account ID, also random) to check the subscription. See <a href="https://www.revenuecat.com/privacy">RevenueCat's privacy policy</a>.</li>
+<li><strong>Speech input.</strong> On newer iPhones and iPads speech is turned into text on the device. On devices that cannot do this, Apple's speech recognition server is used. On Android, the system speech recognition service (Google) is used. The audio never reaches us.</li>
+<li><strong>Payments</strong> are handled by Apple (App Store) or Google (Google Play). We never see card details.</li>
+<li><strong>Content.</strong> Stories, audio and photos are downloaded from GitHub Pages and Cloudflare R2; the Android app also downloads the free on-device voice model from jsDelivr and Hugging Face once. These hosts may keep standard connection logs (IP address, time, file).</li>
+</ul>
 
-<h2>What we do not do</h2>
-<p>No advertising, no tracking across apps or websites, no sale of data.</p>
+<h2>Deleting data</h2>
+<p>Deleting the app removes everything stored on the device. Request counts on the relay expire after 2 days. To delete purchase records held by RevenueCat, email us with the order ID from your App Store or Google Play receipt.</p>
 
 <h2>Children</h2>
-<p>The app is not directed at children under 13 and does not knowingly collect their data.</p>
+<p>The app is not directed at children under 13.</p>
 
 <h2>Contact</h2>
 <p><a href="mailto:yukawa.shouhei@gmail.com">yukawa.shouhei@gmail.com</a></p>
